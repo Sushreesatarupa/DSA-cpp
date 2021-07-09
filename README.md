@@ -4,8 +4,8 @@
 <hr>
 Starting from Algorithms to dynamic programming
 
-<hr><center>
+<hr><centre>
 -> Each day 5 problems <br>
 -> July 12 - September 10 <br>
--> For beginners and intermediates <br></center>
+-> For beginners and intermediates <br></centre>
 <hr>
