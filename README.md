@@ -1,5 +1,8 @@
 # DSA 60 days 
-## Starting from Algorithms to dynamic programming
+
+
+<hr>
+Starting from Algorithms to dynamic programming
 
 <hr>
 -> Each day 5 problems <br>
