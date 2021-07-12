@@ -49,8 +49,16 @@ class Solution {
   public:
     int canReach(long long a, long long b, long long x) {
         // code here
-    }
-};
+        a= abs(a);
+        b= abs(b);
+        long long c= a+b;
+        
+        if(a==0 && b==0 && x%2!=0){ return 0;}
+        if(c>x){ return 0;}
+        if(c==x){ return 1;}
+        if(c<x){ return (((x-c)%2)?0:1);}
+        }
+    };
 
 // { Driver Code Starts.
 int main() {
