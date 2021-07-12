@@ -40,7 +40,12 @@ class Solution
 public:
     int trailingZeroes(int N)
     {
-       // Write Your Code here
+        // Write Your Code here
+        int m=0;
+        while(N>0){
+        m= m+N/5;
+        N=N/5;}
+        return m;
     }
 };
 
