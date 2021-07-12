@@ -1,5 +1,5 @@
 /**
-2. Plus One 
+1. Plus One 
 Given a non-negative number represented as a list of digits, add 1 to the number (increment the number represented by the digits). The digits are stored such that the most significant digit is first element of array.
  
 
