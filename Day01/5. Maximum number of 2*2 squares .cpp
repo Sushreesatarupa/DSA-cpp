@@ -40,6 +40,11 @@ class Solution
     long long int numberOfSquares(long long int base)
     {
         //code here
+        if (base%2 == 0)
+        return (base)*(base-2)/8;
+        else
+        return(base -3)*(base-1)/8;
+        
     }
 };
 
