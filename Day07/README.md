@@ -1,12 +1,12 @@
 # DSA 60 days 
 
 
-<hr>
-Starting from Algorithms to dynamic programming
+## Array Data Structure
 
-<hr><center>
--> Each day 5 problems <br>
--> July 12 - September 10 <br>
--> For beginners and intermediates <br></center>
-<hr>
-<img src="Sushreesatarupa/DSA-60DAYS/IMG_20210710_014552.jpg">
+<ul>
+<li> Asympotytic analysis </li>
+<li> best, average and worst cases </li>
+<li> asympotic notations</li>
+<li> analysis of loops</li>
+</ul>
+<!-- <img src="Sushreesatarupa/DSA-60DAYS/IMG_20210710_014552.jpg"> -->
