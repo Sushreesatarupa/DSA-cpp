@@ -47,12 +47,44 @@ using namespace std;
  // } Driver Code Ends
 //User function template for C++
 class Solution{
+
 public:	
 	vector<int> printUnsorted(int arr[], int n) {
 	    // code here
+	    int s=-1,e=n-1;
+	    for(int i=0;i<n-1;i++){
+	        if(arr[i]>arr[i+1]){
+	           s=i; 
+	           break;
+	        }
+	    }
+	    if(s==-1)return{0,0};
+	    for(int i=n-1;i>=0;i--){
+	        if(arr[i]<arr[i-1]){
+	           e=i; 
+	           break;
+	        }
+	    }
+	    int min=arr[n-1],max=arr[0];
+	    for(int i=s;i<=e;i++){
+	        if(arr[i]>max){
+	           max=arr[i]; 
+	        }
+	        if(arr[i]<min){
+	           min=arr[i]; 
+	        }
+	    }
+	    for(int i=0; i<s; i++){
+	        if(arr[i]>min){s=i;break;}
+	    }
+	    for(int i=n-1; i>e; i--){
+	        if(arr[i]<max){e=i;break;}
+	    }
+	    return {s,e};
+	  
 	}
 };
-
+	
 // { Driver Code Starts.
 
 int main() {
