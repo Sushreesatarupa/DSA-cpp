@@ -11,5 +11,4 @@
   <li> insertion </li>
   <li> deletion </li>
   <li> reversal </li>
-</ul>
-<!-- <img src="Sushreesatarupa/DSA-60DAYS/IMG_20210710_014552.jpg"> -->
+</ul><img https://github.com/Sushreesatarupa/DSA-60Days/blob/main/Day07/IMG_20210714_024650.jpg"> 
