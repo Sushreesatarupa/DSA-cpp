@@ -1,5 +1,5 @@
 /**
-11. Third largest element 
+2. Third largest element 
 Basic Accuracy: 46.52% Submissions: 36544 Points: 1
 Given an array of distinct elements. Find the third largest element in it. 
 
