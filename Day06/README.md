@@ -1,12 +1,12 @@
 # DSA 60 days 
 
-<hr>
 
-## Analysis complexity of algorithm
-<!-- 
-<hr><center>
--> Each day 5 problems <br>
--> July 12 - September 10 <br>
--> For beginners and intermediates <br></center>
-<hr> -->
+## Complexity Analysis of algorithm
+
+<ul>
+<li> Asympotytic analysis </li>
+<li> best, average and worst cases </li>
+<li> asympotic notations</li>
+<li> analysis of loops</li>
+</ul>
 <!-- <img src="Sushreesatarupa/DSA-60DAYS/IMG_20210710_014552.jpg"> -->
