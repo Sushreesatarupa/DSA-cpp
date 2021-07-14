@@ -23,7 +23,7 @@
 <hr>
 
 ## What information should be in the program documentation?
-For an individual module, it is important to record 
+For an individual module, it is important to record <br>
 (1) who has written the module, <br>
 (2) when the module was written or modified, <br>
 (3) why the module was written or modified, <br>
