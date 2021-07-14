@@ -2,49 +2,9 @@
 
 
 
-<html>
 
-    <head>
 
-        <style>
 
-            .new{
-
-            animation-duration: 400ms;
-
-            animation-name: blink;
-
-            animation-iteration-count: infinite;
-
-            animation-direction: alternate;
-
-            }
-
-            @keyframes blink {
-
-               from {
-
-                  color: red;
-
-               }
-
-               to {
-
-                  color: yellow;
-
-               }
-
-             }
-
-        </style>
-
-    
-
-    </head>
-
-    <body style="    background-color: #000000;color: lightgrey;">
-
-        <div style="text-align: center;">
 
 <img src="https://github.com/Sushreesatarupa/Description-of-dsa60/blob/main/IMG_20210712_215737.jpg?raw=true" placeholder="DSA 60 Days"><hr><br>
 
@@ -138,10 +98,8 @@ Each day we have 2 tasks to complete.<br>
 
 <br><hr>
 
-        </div>
+        
 
-<footer style="text-align : center"> copyright @Sushree Satarupa, Sayansree Paria </footer>
 
-    </body>
 
-</html>
+    
