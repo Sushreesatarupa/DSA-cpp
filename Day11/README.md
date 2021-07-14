@@ -1,6 +1,6 @@
 # DSA 60 days 
 
-
+<!-- 
 <hr>
 Starting from Algorithms to dynamic programming
 
@@ -10,3 +10,6 @@ Starting from Algorithms to dynamic programming
 -> For beginners and intermediates <br></center>
 <hr>
 <img src="Sushreesatarupa/DSA-60DAYS/IMG_20210710_014552.jpg">
+ -->
+ 14. Tree
+15. Bst
