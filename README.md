@@ -8,7 +8,7 @@
 
 <img src="https://github.com/Sushreesatarupa/Description-of-dsa60/blob/main/IMG_20210712_215737.jpg?raw=true" placeholder="DSA 60 Days"><hr><br>
 
-            Hi people! <br>
+Hi people! <br>
 
 So we have started grasping dsa concepts and solving problems from 12 July. <br>
 
@@ -50,13 +50,13 @@ Star the repo or fork it.<br>
 
 We shall start dsa from today.<br> <hr><br>
 
-            For complete cpp fundamentals theory visit :- <a href="C++ theory.html">CPP Theory</a>
+For complete cpp fundamentals theory visit :- <a href="C++ theory.html">CPP Theory</a>
 
 <br><hr>
 
 <a href="https://practice.geeksforgeeks.org/courses/fork-cpp"> GFG learn C++</a><br>
 
-           <p class="new"> <a href="https://www.geeksforgeeks.org/data-structures"> DSA ALL TOPICS LINK</a> NEW</p>
+<p class="new"> <a href="https://www.geeksforgeeks.org/data-structures"> DSA ALL TOPICS LINK</a> NEW</p>
 
 <br>
 
