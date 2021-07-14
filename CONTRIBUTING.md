@@ -16,11 +16,12 @@
 -> You must think about what sort of data structures and objects (e.g., arrays, files or linked lists) are needed. <br>
 -> This thinking must be done before you start coding, or you will find yourself wasting time writing useless code that is full of errors. <br>
 -> It is very important to record this creative process so that the programmers that follow you do not duplicate work that you have already done.<br>
-
+<br>
 -> Before writing the code, you should write the documentation to describe the design of each component of your program. <br>
 -> Writing documentation for the modules before writing the code helps you define exactly what each module should do and how it will interact with other modules. <br>
 -> Focusing on the design and the steps needed to solve the problem can help prevent errors in the completed program.<br><br><br>
 <hr>
+
 ## What information should be in the program documentation?
 For an individual module, it is important to record 
 (1) who has written the module, <br>
@@ -30,6 +31,7 @@ For an individual module, it is important to record
 (5) what special algorithms were used, if any, and <br>
 (6) acknowledge outside sources for ideas and algorithms. <br>
 <hr>
+
 ## For data structures, it is important to record 
 (1) what data structure is used, <br>
 (2) why a particular structure was used, <br>
