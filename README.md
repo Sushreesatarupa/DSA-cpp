@@ -9,4 +9,4 @@ Starting from Algorithms to dynamic programming
 -> July 12 - September 10 <br>
 -> For beginners and intermediates <br></center>
 <hr>
-<img src="https://github.com/Sushreesatarupa/DSA-60Days/blob/main/IMG_20210710_014552.jpg">
+<img src="https://github.com/Sushreesatarupa/DSA-60Days/blob/main/IMG_20210710_014552.jpg?raw=true">
