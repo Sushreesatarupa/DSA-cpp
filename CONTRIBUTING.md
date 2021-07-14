@@ -9,7 +9,9 @@
 -> Documentation can help the programmer who is making the modifications understand your code.<br>
 -> Documenting your program during development helps you to maintain your sanity.<br><br>
 <hr>
+
 ## When should program documentation be done?
+
 -> When designing your program, you must spend time thinking about how to structure your program, what modules are needed, and the algorithms and processes you will use in the modules. <br>
 -> You must think about what sort of data structures and objects (e.g., arrays, files or linked lists) are needed. <br>
 -> This thinking must be done before you start coding, or you will find yourself wasting time writing useless code that is full of errors. <br>
