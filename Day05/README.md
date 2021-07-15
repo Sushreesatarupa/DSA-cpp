@@ -3,6 +3,7 @@
 <hr>
 Day 5 - July 16
 <hr>
+Revise these topics from DSA cpp
 
 1. Introduction
 2. Maths
