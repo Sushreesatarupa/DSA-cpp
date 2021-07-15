@@ -5,3 +5,5 @@ You have to create folder of the chapter or topic you are writing about then ins
 
 <br>
 You can add images, text document, cpp files, readme files , pdf, ppt ,links ,etc
+<br>
+You can also write summary on topics related to the chapter or topics.
