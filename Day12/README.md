@@ -10,7 +10,7 @@
 <hr><center>
 -> Each day 5 problems <br>
 -> For beginners and intermediates<br></center>
--> Read from :- <a href=" ">Hashing</a>
+-> Read from :- <a href="https://www.geeksforgeeks.org/hashing-set-1-introduction/ ">Hashing</a>
 <hr>
 
 Question 1:- <a href=" " > </a><br>
