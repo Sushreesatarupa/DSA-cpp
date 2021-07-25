@@ -8,7 +8,7 @@
 <hr><center>
 -> Each day 5 problems <br>
 -> For beginners and intermediates<br></center>
--> Read from :- <a href=" https://www.geeksforgeeks.org/all-about-bit-manipulation/">Bit manipulation</a>
+-> Read from :- <a href="https://www.geeksforgeeks.org/all-about-bit-manipulation/">Bit manipulation</a>
 <hr>
 
 Question 1:- <a href=" " > </a><br>
