@@ -19,14 +19,6 @@ We have started grasping dsa concepts and solving problems and shall continue ti
 - [Instagram](https://www.instagram.com/satarupa_ss/)
 
 <hr><br>
-You make a plan, you try to follow your plan and you start doing preparation through various resources, tutorials, and videos. You start learning it but after a couple of days or months, You’re not making any progress and things are overwhelming for you. <br>
-
-You’re not alone and it’s happening with so many newbie programmers and experienced developers. Due to the lack of a good roadmap and guidance, things become messy and confusing for them. <br>
-
-Well, there are a lot of topics and things to cover if you’re targeting some big tech companies. It may take almost  8 weeks or 60 Days to do so. We have divided the complete topics into 60 days and all you just have to do is to follow it and stay committed to coding for 60 days. <br>
-
-If you follow this approach and stay committed to coding then not only you will develop a good coding habit but also you will be able to crack the coding round of 60-70% of tech companies. <br>
-
 If you’re a beginner then try to commit your time for at least 4-6 hours every day.<br><br>
 DSA-60DAYS is a complete roadmap to start with DSA and increase your level of problem solving from basic to medium.<br>
 <hr>
