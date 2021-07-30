@@ -14,6 +14,22 @@ So we have started grasping dsa concepts and solving problems from 12 July. <br>
 
 And we shall continue till September 10<br>
 
+
+# DSA-Bootcamp-Java
+
+- [Subscribe to our channel](https://www.youtube.com/KunalKushwaha?sub_confirmation=1)
+- [Complete Playlist](https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
+- [Syllabus](SYLLABUS.md)
+- [Discord for discussions](https://discord.gg/K9kxUXvfND)
+- [Telegram for announcements](https://t.me/commclassroom)
+
+### Connect with me
+- [Twitter](https://twitter.com/satarupasushree)
+- [LinkedIn](https://www.linkedin.com/in/sushree-satarupa/)
+- [Instagram](https://www.instagram.com/satarupa_ss/)
+
+
+
 <hr><br>
 You make a plan, you try to follow your plan and you start doing preparation through various resources, tutorials, and videos. You start learning it but after a couple of days or months, You’re not making any progress and things are overwhelming for you. <br>
 
