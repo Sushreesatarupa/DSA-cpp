@@ -54,7 +54,7 @@ DSA-60DAYS is a complete roadmap to start with DSA and increase your level of pr
 - [GFG learn C++](https://practice.geeksforgeeks.org/courses/fork-cpp)
 - [DSA ALL TOPICS](https://www.geeksforgeeks.org/data-structures)
 
-<br><hr><br>
+<br><hr>
 
 ## Schedule
 
