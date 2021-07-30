@@ -56,7 +56,6 @@ Starting from Algorithms to dynamic programming
 - [GFG learn C++](https://practice.geeksforgeeks.org/courses/fork-cpp)
 - [DSA ALL TOPICS](https://www.geeksforgeeks.org/data-structures)
 
-<br>
 <br><hr><br>
 
 <br>
