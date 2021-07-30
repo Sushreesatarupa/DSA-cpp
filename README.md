@@ -12,7 +12,7 @@ We have started grasping dsa concepts and solving problems and shall continue ti
 - [Subscribe to our channel](https://youtube.com/channel/UCZrPV5fhnvvG3C0m8RrIFhA)
 - [Complete Playlist](https://youtube.com/playlist?list=PL2FviLYGTpU0rr01Lcr-1bNYv8x58EIZq)
 - [Syllabus](https://github.com/Sushreesatarupa/DSA-60Days/blob/main/b29678fe27a487f4835e6291a9302224.pdf)
-- [Discord for discussions](https://discord.gg/K9kxUXvfND)
+- [Discord for discussions](https://discord.gg/MezpseWz)
 - [Whatsapp for announcements](https://chat.whatsapp.com/HxQ9GxejKq415fvqiorkMC)
 - [GitHub repo - Star the repo or fork it.](https://github.com/Sushreesatarupa/DSA-60Days)
 
