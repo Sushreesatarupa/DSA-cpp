@@ -2,17 +2,9 @@
 
 
 
-
-
-
-
 <img src="https://github.com/Sushreesatarupa/Description-of-dsa60/blob/main/IMG_20210712_215737.jpg?raw=true" placeholder="DSA 60 Days"><hr><br>
 
-Hi people! <br>
-
-So we have started grasping dsa concepts and solving problems from 12 July. <br>
-
-And we shall continue till September 10<br>
+We have started grasping dsa concepts and solving problems and shall continue till September 10<br>
 
 
 # DSA-Bootcamp-CPP
