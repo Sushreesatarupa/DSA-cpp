@@ -17,8 +17,8 @@ And we shall continue till September 10<br>
 
 # DSA-Bootcamp-CPP
 
-- [Subscribe to our channel](https://www.youtube.com/KunalKushwaha?sub_confirmation=1)
-- [Complete Playlist](https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
+- [Subscribe to our channel](https://youtube.com/channel/UCZrPV5fhnvvG3C0m8RrIFhA)
+- [Complete Playlist](https://youtube.com/playlist?list=PL2FviLYGTpU0rr01Lcr-1bNYv8x58EIZq)
 - [Syllabus](SYLLABUS.md)
 - [Discord for discussions](https://discord.gg/K9kxUXvfND)
 - [Telegram for announcements](https://t.me/commclassroom)
