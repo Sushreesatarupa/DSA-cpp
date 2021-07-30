@@ -64,7 +64,9 @@ Each day we have 2 tasks to complete.<br>
 
 1. Learn the day's target chapters. <br>
 
-2. Solve questions out of daily given 5 questions.<br></b>
+2. Solve questions out of daily given 5 questions.<br>
+
+3. Attend the sessions on solution discussion</b>
 
 <br><hr>
 
