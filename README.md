@@ -41,10 +41,7 @@ DSA-60DAYS is a complete roadmap to start with DSA and increase your level of pr
     • July 12 - September 10 <br>
     • For beginners and intermediates <br></center>
 
-<hr>
-
-<img src="https://github.com/Sushreesatarupa/DSA-60Days/blob/main/IMG_20210710_014552.jpg?raw=true">
-<br> <hr><br>
+<hr><br>
 
 ## Materials
 - [complete cpp fundamentals theory](https://github.com/Sushreesatarupa/Description-of-dsa60/blob/main/C%2B%2B%20theory.html)
@@ -66,6 +63,10 @@ Each day we have 2 tasks to complete.<br>
 3. Attend the sessions on solution discussion</b>
 
 <br><hr>
+<hr>
+
+<img src="https://github.com/Sushreesatarupa/DSA-60Days/blob/main/IMG_20210710_014552.jpg?raw=true">
+<br> 
 
         
 
