@@ -15,7 +15,7 @@ So we have started grasping dsa concepts and solving problems from 12 July. <br>
 And we shall continue till September 10<br>
 
 
-# DSA-Bootcamp-Java
+# DSA-Bootcamp-CPP
 
 - [Subscribe to our channel](https://www.youtube.com/KunalKushwaha?sub_confirmation=1)
 - [Complete Playlist](https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
