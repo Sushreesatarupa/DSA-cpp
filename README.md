@@ -61,7 +61,7 @@ Starting from Algorithms to dynamic programming
 
 [complete cpp fundamentals theory] (C++ theory.html)
 
- [GFG learn C++](https://practice.geeksforgeeks.org/courses/fork-cpp)
+[GFG learn C++](https://practice.geeksforgeeks.org/courses/fork-cpp)
 
 <p class="new"> <a href="https://www.geeksforgeeks.org/data-structures"> DSA ALL TOPICS LINK</a> NEW</p>
 
