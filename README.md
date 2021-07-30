@@ -52,7 +52,7 @@ Starting from Algorithms to dynamic programming
 <br> <hr><br>
 
 ## Materials
-- [complete cpp fundamentals theory] (C++ theory.html)
+- [complete cpp fundamentals theory] (https://github.com/Sushreesatarupa/DSA-60Days/blob/main/C++ theory.html)
 - [GFG learn C++](https://practice.geeksforgeeks.org/courses/fork-cpp)
 - [DSA ALL TOPICS](https://www.geeksforgeeks.org/data-structures)
 
