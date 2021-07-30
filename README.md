@@ -22,6 +22,7 @@ And we shall continue till September 10<br>
 - [Syllabus](https://github.com/Sushreesatarupa/DSA-60Days/blob/main/b29678fe27a487f4835e6291a9302224.pdf)
 - [Discord for discussions](https://discord.gg/K9kxUXvfND)
 - [Whatsapp for announcements](https://chat.whatsapp.com/HxQ9GxejKq415fvqiorkMC)
+- [GitHub repo - Star the repo or fork it.](https://github.com/Sushreesatarupa/DSA-60Days)
 
 ### Connect with me
 - [Twitter](https://twitter.com/satarupasushree)
@@ -59,20 +60,6 @@ Starting from Algorithms to dynamic programming
 For those who joined today:- <br>
 
 <br>
-
-With GitHub , I'll post all information on twitter too. <br>
-
-<a href="https://twitter.com/SatarupaSushree/status/1414298947116363776?s=1005">twitter feed</a>
-
-<br><hr><br>
-
-GitHub link:- <br>
-
-<a href="https://github.com/Sushreesatarupa/DSA-60Days">GitHub repo</a>
-
-<br>
-
-Star the repo or fork it.<br>
 
 We shall start dsa from today.<br> <hr><br>
 
