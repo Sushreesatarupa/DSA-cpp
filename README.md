@@ -1,11 +1,8 @@
 # DSA 60 days 
 
-
-
 <img src="https://github.com/Sushreesatarupa/Description-of-dsa60/blob/main/IMG_20210712_215737.jpg?raw=true" placeholder="DSA 60 Days"><hr><br>
 
 We have started grasping dsa concepts and solving problems and shall continue till September 10<br>
-
 
 # DSA-Bootcamp-CPP
 
@@ -20,8 +17,6 @@ We have started grasping dsa concepts and solving problems and shall continue ti
 - [Twitter](https://twitter.com/satarupasushree)
 - [LinkedIn](https://www.linkedin.com/in/sushree-satarupa/)
 - [Instagram](https://www.instagram.com/satarupa_ss/)
-
-
 
 <hr><br>
 You make a plan, you try to follow your plan and you start doing preparation through various resources, tutorials, and videos. You start learning it but after a couple of days or months, You’re not making any progress and things are overwhelming for you. <br>
@@ -63,7 +58,6 @@ Each day we have 2 tasks to complete.<br>
 3. Attend the sessions on solution discussion</b>
 
 <br><hr>
-<hr>
 
 <img src="https://github.com/Sushreesatarupa/DSA-60Days/blob/main/IMG_20210710_014552.jpg?raw=true">
 <br> 
