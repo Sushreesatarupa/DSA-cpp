@@ -19,7 +19,7 @@ And we shall continue till September 10<br>
 
 - [Subscribe to our channel](https://youtube.com/channel/UCZrPV5fhnvvG3C0m8RrIFhA)
 - [Complete Playlist](https://youtube.com/playlist?list=PL2FviLYGTpU0rr01Lcr-1bNYv8x58EIZq)
-- [Syllabus](SYLLABUS.md)
+- [Syllabus](https://github.com/Sushreesatarupa/DSA-60Days/blob/main/b29678fe27a487f4835e6291a9302224.pdf)
 - [Discord for discussions](https://discord.gg/K9kxUXvfND)
 - [Telegram for announcements](https://t.me/commclassroom)
 
