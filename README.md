@@ -36,9 +36,7 @@ If you’re a beginner then try to commit your time for at least 4-6 hours every
 DSA-60DAYS is a complete roadmap to start with DSA and increase your level of problem solving from basic to medium.<br>
 <hr>
 
-Starting from Algorithms to dynamic programming
-
-<hr><center>
+-> Starting from Algorithms to dynamic programming
 
 -> Each day 5 problems <br>
 
