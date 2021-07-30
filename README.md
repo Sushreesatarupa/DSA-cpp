@@ -75,27 +75,7 @@ For complete cpp fundamentals theory visit :- <a href="C++ theory.html">CPP Theo
 
 Use this course to revise your cpp fundamentals
 
-<br>
-
-And if anyone is using any other languages rather than c++ then don't worry.<br>
-
-Syntax may be different but concepts would remain the same!
-
-<br>
-
-Try finishing all topics of day 1 by Evening, then we shall solve 1-2 basic cpp questions.<br>
-
 <br><hr><br>
-
-Use the wapp group to discuss among yourselves 
-
-<br>
-
-If you have any doubts or get stuck somewhere you can discuss here and also ask us for help.<br>
-
-<br>
-
-<hr>
 
 <br>
 
