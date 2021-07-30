@@ -57,29 +57,18 @@ Starting from Algorithms to dynamic programming
 <hr>
 
 <img src="https://github.com/Sushreesatarupa/DSA-60Days/blob/main/IMG_20210710_014552.jpg?raw=true">
-For those who joined today:- <br>
+<br> <hr><br>
 
-<br>
+[complete cpp fundamentals theory] (C++ theory.html)
 
-We shall start dsa from today.<br> <hr><br>
-
-For complete cpp fundamentals theory visit :- <a href="C++ theory.html">CPP Theory</a>
-
-<br><hr>
-
-<a href="https://practice.geeksforgeeks.org/courses/fork-cpp"> GFG learn C++</a><br>
+ [GFG learn C++](https://practice.geeksforgeeks.org/courses/fork-cpp)
 
 <p class="new"> <a href="https://www.geeksforgeeks.org/data-structures"> DSA ALL TOPICS LINK</a> NEW</p>
 
 <br>
-
-Use this course to revise your cpp fundamentals
-
 <br><hr><br>
 
 <br>
-
-To be more clear <br>
 
 <b>
 
