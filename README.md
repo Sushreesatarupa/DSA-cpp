@@ -25,9 +25,9 @@ DSA-60DAYS is a complete roadmap to start with DSA and increase your level of pr
 
 
     • Starting from Algorithms to dynamic programming
-    • Each day 5 problems <br>
-    • July 12 - September 10 <br>
-    • For beginners and intermediates <br></center>
+    • Each day 5 problems 
+    • July 12 - September 10
+    • For beginners and intermediates
 
 <hr><br>
 
