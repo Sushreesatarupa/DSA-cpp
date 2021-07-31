@@ -16,7 +16,7 @@ We have started grasping dsa concepts and solving problems and shall continue ti
 
 ### Connect with me
 - [Twitter](https://twitter.com/satarupasushree)
-- [LinkedIn](https://www.linkedin.com/in/sushree-satarupa/)
+- [LinkedIn](https://www.linkedin.com/in/sushree-satarupa-4a45411a5)
 - [Instagram](https://www.instagram.com/satarupa_ss/)
 
 <hr><br>
