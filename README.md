@@ -12,6 +12,7 @@ We have started grasping dsa concepts and solving problems and shall continue ti
 - [Discord for discussions](https://discord.gg/MezpseWz)
 - [Whatsapp for announcements](https://chat.whatsapp.com/HxQ9GxejKq415fvqiorkMC)
 - [GitHub repo - Star the repo or fork it.](https://github.com/Sushreesatarupa/DSA-60Days)
+- [Cheatcode](https://github.com/Sushreesatarupa/DSA-60Days/blob/main/Cheatcode%20Book.pdf)
 
 ### Connect with me
 - [Twitter](https://twitter.com/satarupasushree)
