@@ -14,7 +14,7 @@ Question 1:- <a href="https://practice.geeksforgeeks.org/problems/set-bits0143/1
 Question 2:- <a href="https://practice.geeksforgeeks.org/problems/sum-of-two-numbers-without-using-arithmetic-operators/0/?fbclid=IwAR1A_1ONHs__SWLPe77raUMJWVLCGJfEC10MfZYupmjwGpneJV9eTo9K9l8" >Sum of two numbers without using arithmetic operators </a><br>
 Question 3:- <a href="https://practice.geeksforgeeks.org/problems/check-whether-k-th-bit-is-set-or-not-1587115620/1" >Check whether K-th bit is set or not </a><br>
 Question 4:- <a href="https://practice.geeksforgeeks.org/problems/longest-consecutive-1s-1587115620/1" > Longest Consecutive 1's</a><br>
-Question 5:- <a href="https://practice.geeksforgeeks.org/problems/division-without-using-multiplication-division-and-mod-operator/0/" > Division without using multiplication, division and mod operator</a>
+Question 5:- <a href="https://practice.geeksforgeeks.org/problems/division-without-using-multiplication-division-and-mod-operator/0/" > Division without using multiplication, division and mod operator</a><br>
 Question 6:- <a href="https://practice.geeksforgeeks.org/problems/check-whether-k-th-bit-is-set-or-not-1587115620/1" >Spirally traversing a matrix</a><br>
 Question 7:- <a href="https://practice.geeksforgeeks.org/problems/longest-consecutive-1s-1587115620/1" > Rotate Array</a><br>
 Question 8:- <a href="https://practice.geeksforgeeks.org/problems/division-without-using-multiplication-division-and-mod-operator/0/" > Search in a matrix</a>
