@@ -20,6 +20,9 @@ We have started grasping dsa concepts and solving problems and shall continue ti
 - [Instagram](https://www.instagram.com/satarupa_ss/)
 
 <hr><br>
+
+## About
+
 If you’re a beginner then try to commit your time for at least 4-6 hours every day.<br><br>
 DSA-60DAYS is a complete roadmap to start with DSA and increase your level of problem solving from basic to medium.<br>
 
