@@ -53,9 +53,6 @@ Each day we have 2 tasks to complete.<br>
 
 <br><hr>
 
-<img src="https://github.com/Sushreesatarupa/DSA-60Days/blob/main/IMG_20210710_014552.jpg?raw=true">
-<br> 
-
         
 
 
