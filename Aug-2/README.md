@@ -7,7 +7,7 @@
 ## Arrays
 
 <hr>
--> Read from :- <a href="https://www.geeksforgeeks.org/all-about-bit-manipulation/">Bit manipulation</a>
+-> Read from :- <a href="https://www.geeksforgeeks.org/binary-search">Binary Search</a>
 <hr>
 
 Question 1:- <a href="https://practice.geeksforgeeks.org/problems/trapping-rain-water-1587115621/1" >Trapping rainwater</a><br>
