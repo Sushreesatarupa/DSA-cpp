@@ -1,10 +1,9 @@
 # DSA 60 days 
 ## Aug 2
 
-<hr>
 
-## Arrays
-## Binary Search
+### Arrays
+### Binary Search
 
 <hr>
 -> Read from :- <a href="https://www.geeksforgeeks.org/binary-search">Binary Search</a>
