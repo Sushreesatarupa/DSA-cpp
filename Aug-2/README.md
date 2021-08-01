@@ -3,8 +3,8 @@
 
 <hr>
 
-## Bit manipulation
 ## Arrays
+## Binary Search
 
 <hr>
 -> Read from :- <a href="https://www.geeksforgeeks.org/binary-search">Binary Search</a>
