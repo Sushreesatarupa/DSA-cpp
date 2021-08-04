@@ -1,3 +1,5 @@
+# Aug 5
+## Mathematics
 
 1.<a href="https://practice.geeksforgeeks.org/problems/missing-number-in-array1416/1"> missing umber in array </a><br>
 2.<a href="https://practice.geeksforgeeks.org/problems/minimum-steps-to-make-product-equal-to-one/1/">minimum-steps-to-make-product-equal-to-one</a><br>
