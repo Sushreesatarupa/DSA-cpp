@@ -1,6 +1,6 @@
 # DSA 60 days 
 
-<img src="https://github.com/Sushreesatarupa/Description-of-dsa60/blob/main/IMG_20210712_215737.jpg?raw=true" placeholder="DSA 60 Days"><hr><br>
+![image](https://user-images.githubusercontent.com/64991656/133085022-e507d7da-e824-4226-be49-0f549cd78e17.png)
 
 The project has two parts: 
 1. C++
