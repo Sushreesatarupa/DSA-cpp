@@ -3,14 +3,14 @@
 <img src="https://github.com/Sushreesatarupa/Description-of-dsa60/blob/main/IMG_20210712_215737.jpg?raw=true" placeholder="DSA 60 Days"><hr><br>
 
 The project has two parts: 
-1)      C++
+1. C++
     a. C++ section will contain folders of all the data structures and algorithms topics with some pre-addressed questions. 
     Participants can solve problems and send pull requests. Participants can even add questions and solutions of their interest.
     b. There will be a technical writing section in which participants can contribute their technical writing on any topic of c++ and data structures.
     c. The repository provides implementations of various algorithms in one of the most fundamental general-purpose languages - C++.
     d. Well-documented source code with detailed explanations provides a valuable resource for educators and students alike.
 
-2)      The webpage- 
+2. The webpage- 
     a. There shall be showcasing Daily tasks from Day 1 to Day 60. 
     b. And a section to showcase technical writings of participants in the form of blogs 
 
