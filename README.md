@@ -28,16 +28,13 @@ The project has two parts:
 - [Complete Playlist](https://youtube.com/playlist?list=PL2FviLYGTpU0rr01Lcr-1bNYv8x58EIZq)
 - [Syllabus](https://github.com/Sushreesatarupa/DSA-60Days/blob/main/b29678fe27a487f4835e6291a9302224.pdf)
 - [Discord for discussions](https://discord.gg/MezpseWz)
-- [Whatsapp for announcements](https://chat.whatsapp.com/HxQ9GxejKq415fvqiorkMC)
-- [GitHub repo - Star the repo or fork it.](https://github.com/Sushreesatarupa/DSA-60Days)
-- [Cheatcode](https://github.com/Sushreesatarupa/DSA-60Days/blob/main/Cheatcode%20Book.pdf)
 
 ### Connect with me
 - [Twitter](https://twitter.com/satarupasushree)
 - [LinkedIn](https://www.linkedin.com/in/sushree-satarupa-4a45411a5)
 - [Instagram](https://www.instagram.com/satarupa_ss/)
 
-<hr><br>
+---
 
 ## About
 
@@ -50,19 +47,17 @@ DSA-60DAYS is a complete roadmap to start with DSA and increase your level of pr
     • July 12 - September 10
     • For beginners and intermediates
 
-<hr><br>
+---
 
 ## Materials
 - [complete cpp fundamentals theory](https://github.com/Sushreesatarupa/Description-of-dsa60/blob/main/C%2B%2B%20theory.html)
 - [GFG learn C++](https://practice.geeksforgeeks.org/courses/fork-cpp)
 - [DSA ALL TOPICS](https://www.geeksforgeeks.org/data-structures)
 
-<br>
+---
 
 
 ## Schedule
-
-<b>
 
 Each day we have 2 tasks to complete.<br>
 
@@ -72,7 +67,7 @@ Each day we have 2 tasks to complete.<br>
 
 3. Attend the sessions on solution discussion</b>
 
-<br><hr>
+---
 
         
 
