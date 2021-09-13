@@ -21,3 +21,10 @@
 2.<a href="https://www.geeksforgeeks.org/write-a-function-to-get-the-intersection-point-of-two-linked-lists/">write-a-function-to-get-the-intersection-point-of-two-linked-lists</a><br>
 3.<a href="https://www.geeksforgeeks.org/detect-loop-in-a-linked-list/">detect-loop-in-a-linked-list</a><br>
 4.<a href="https://www.geeksforgeeks.org/detect-and-remove-loop-in-a-linked-list">detect-and-remove-loop-in-a-linked-list</a><br>
+
+
+1.<a href="https://practice.geeksforgeeks.org/problems/intersection-point-in-y-shapped-linked-lists/1">intersection-point-in-y-shapped-linked-lists/1</a><br>
+2.<a href="https://practice.geeksforgeeks.org/problems/rotate-a-linked-list/1">rotate-a-linked-list/1</a><br>
+4.<a href="https://practice.geeksforgeeks.org/problems/flattening-a-linked-list/1">flattening-a-linked-list</a><br>
+
+
