@@ -39,14 +39,19 @@
 ***
 ## Rules To Contribute To This Repo
 
--   Use C++, Data Structure and Algorithms, HTML, CSS, JavaScript.
+-   You can write solutions only in C++ for Data Structure and Algorithms (if you dont know C++ you can submit only algorithm) 
+-   Use of HTML, CSS, JavaScript is expected for webpage.
+-   while adding any content it should be inside its appropiate directory
+-   if there is any  problem with inaccurate solution create a issue 
 -   
--   Anything valuable.
 
 ## Things you can contribute to 
 -   You can add a solution to a question that is unanswered
 -   you can update existing solution with a better one
 -   you can add new questions along with its solution
+-   solve issue raised by other people or yourself
+-   make webpage more appealing and updated
+-   UI/UX of webpage
 
 ## Steps For Contribution
 
