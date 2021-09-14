@@ -42,19 +42,6 @@
 -   Use C++, Data Structure and Algorithms, HTML, CSS, JavaScript.
 -   Anything valuable.
 
-## How to Contribute in this repo.
-
-Contributing to open-source is easy.
-
-    1. Fork the repository
-    2. Improve current program by
-      - improving functionality
-      - adding new feature
-      - improving the documentation
-    3. Push your work and Create a Pull Request
-
-[Click here for detailed explanation](/Contribute.md)
-
 ## What if my pull requests aren’t accepted?
 
 Even if your pull requests aren’t accepted, they should still count toward your 4 pull requests necessary to earn the shirt. The only exception would be if the project maintainer chooses to mark your pull request as “invalid”. They may do this if they perceive your pull request to be low effort, or if it contains plagiarism.
