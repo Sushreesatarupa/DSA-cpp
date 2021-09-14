@@ -1,4 +1,54 @@
-# DSA 60 days 
+![image](https://user-images.githubusercontent.com/64991656/133310425-514d4b98-b7db-4a79-9aa6-d9b4d8eb393f.png)
+
+<h1 align="center"> Hacktoberfest 2021 </h1>
+
+***
+<h3 align="center">
+    <a href="https://hacktoberfest.digitalocean.com/">
+        Link To HacktoberFest 2021
+    </a>
+</h3>
+
+## Event details :
+
+- Hacktoberfest® is open to everyone in our global community. Whether you’re a developer, student learning to code, event host, or company of any size, you can help drive growth of open source and make positive contributions to an ever-growing community. 
+- All backgrounds and skill levels are encouraged to complete the challenge.
+- Hacktoberfest is a celebration open to everyone in our global community.
+- You can sign up anytime between October 1 and October 31.
+
+## HacktoberFest Rules :
+
+- To earn your Hacktoberfest tee or tree reward, you must register and make four valid pull requests (PRs) between October 1-31 (in any time zone). 
+- Pull requests can be made in any participating GitHub or GitLab hosted repository/project. Look for the 'hacktoberfest' topic to know if a repository/project is participating in Hacktoberfest. 
+- Pull requests must be approved by a maintainer of the repository/project to count. 
+- If a maintainer reports your pull request as spam or behavior not in line with the project’s code of conduct, you will be ineligible to participate. 
+- This year, the first 55,000 participants who successfully complete the challenge will be eligible to receive a prize.
+
+***
+<h3 align="center"> Whether it’s your first or fiftieth pull request, there’s always more to learn! We’ve put together a few resources that can help you create quality pull requests, keep your repositories pristine, and build on your open source knowledge. </h3>
+
+***
+
+<h3 align="center">
+    <a href="https://discord.com/invite/hacktoberfest/">
+       Join Discord Conversation
+    </a>
+</h3>
+
+***
+## Rules To Contribute To This Repo
+
+-   Use C++, Data Structure and Algorithms, HTML, CSS, JavaScript.
+-   Anything valuable.
+
+## Steps For Contribution
+
+    1. Fork this repo
+    2. Star this repo
+    3. Add a file
+    4. commit the code
+    5. Make pull request
+***
 
 ![image](https://user-images.githubusercontent.com/64991656/133085022-e507d7da-e824-4226-be49-0f549cd78e17.png)
 
@@ -33,20 +83,6 @@ The project has two parts:
 - [Twitter](https://twitter.com/satarupasushree)
 - [LinkedIn](https://www.linkedin.com/in/sushree-satarupa-4a45411a5)
 - [Instagram](https://www.instagram.com/satarupa_ss/)
-
----
-
-## About
-
-If you’re a beginner then try to commit your time for at least 4-6 hours every day.<br><br>
-DSA-60DAYS is a complete roadmap to start with DSA and increase your level of problem solving from basic to medium.<br>
-
-
-    • Starting from Algorithms to dynamic programming
-    • Each day 5 problems 
-    • July 12 - September 10
-    • For beginners and intermediates
-
 ---
 
 ## Materials
@@ -56,21 +92,12 @@ DSA-60DAYS is a complete roadmap to start with DSA and increase your level of pr
 
 ---
 
-
-## Schedule
-
-Each day we have 2 tasks to complete.<br>
-
-1. Learn the day's target chapters. <br>
-
-2. Solve questions out of daily given 5 questions.<br>
-
-3. Attend the sessions on solution discussion</b>
-
----
-
         
-
+<h2 align="center">
+    <p>
+        Thank You
+    </p>
+</h2>
 
 
     
