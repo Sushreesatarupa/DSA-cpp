@@ -43,8 +43,16 @@
 -   Use of HTML, CSS, JavaScript is expected for webpage.
 -   while adding any content it should be inside its appropiate directory
 -   if there is any  problem with inaccurate solution create a issue 
--   
 
+## file naming convention
+
+ use | file type  |  comments
+ ----|------------|---------------
+ questions | *README.md*        | all questions of particular topic are mentioned in a *README.md* file inside the directory of that topic
+ C++ solutions | *<topic name>.cpp*  | solution to a question is written in same directory where question is mentioned in README
+aldorithm solution| *<topic name>-algorithm.txt | solution to a question is written in same directory where question is mentioned in README
+    
+    
 ## Things you can contribute to 
 -   You can add a solution to a question that is unanswered
 -   you can update existing solution with a better one
