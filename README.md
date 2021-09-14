@@ -94,7 +94,8 @@ The project has two parts:
 <a href="https://twitter.com/SatarupaSushree">
   <img align="left" alt="Sushree's Twitter" width="6%" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-- 
+
+
 ---
 
 ## Materials
