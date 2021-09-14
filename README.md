@@ -115,6 +115,7 @@ The project has two parts:
 - [DSA ALL TOPICS](https://www.geeksforgeeks.org/data-structures)
 
 ---
+### Contributors
 <a href="https://github.com/Sushreesatarupa/DSA-cpp-Hacktoberfest2021/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Sushreesatarupa/DSA-cpp-Hacktoberfest2021" />
 </a>
