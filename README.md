@@ -85,6 +85,7 @@ The project has two parts:
 - [Discord for discussions](https://discord.gg/MezpseWz)
 
 ### Connect with me
+<p>
 <a href="https://www.linkedin.com/in/sushree-satarupa-4a45411a5/">
   <img align="left" alt="Sushree's LinkdeIn" width="6%" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -94,9 +95,10 @@ The project has two parts:
 <a href="https://twitter.com/SatarupaSushree">
   <img align="left" alt="Sushree's Twitter" width="6%" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-
+</p>
 
 ---
+<br>
 
 ## Materials
 - [complete cpp fundamentals theory](https://github.com/Sushreesatarupa/Description-of-dsa60/blob/main/C%2B%2B%20theory.html)
