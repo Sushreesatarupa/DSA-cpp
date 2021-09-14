@@ -84,19 +84,7 @@ The project has two parts:
 - [Syllabus](https://github.com/Sushreesatarupa/DSA-60Days/blob/main/b29678fe27a487f4835e6291a9302224.pdf)
 - [Discord for discussions](https://discord.gg/MezpseWz)
 
-### Connect with me
-<p>
-<a href="https://www.linkedin.com/in/sushree-satarupa-4a45411a5/">
-  <img align="left" alt="Sushree's LinkdeIn" width="6%" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/satarupa_ss/">
-  <img align="left" alt="Sushree's Instagram" width="6%" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://twitter.com/SatarupaSushree">
-  <img align="left" alt="Sushree's Twitter" width="6%" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-</p>
-<br>
+
 ---
 <br>
 
@@ -112,7 +100,20 @@ The project has two parts:
   <img src="https://contrib.rocks/image?repo=Sushreesatarupa/DSA-cpp-Hacktoberfest2021" />
 </a>
 
-        
+ ### Connect with me
+<p>
+<a href="https://www.linkedin.com/in/sushree-satarupa-4a45411a5/">
+  <img align="left" alt="Sushree's LinkdeIn" width="6%" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/satarupa_ss/">
+  <img align="left" alt="Sushree's Instagram" width="6%" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://twitter.com/SatarupaSushree">
+  <img align="left" alt="Sushree's Twitter" width="6%" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+</p>
+<br>
+ 
 <h2 align="center">
     <p>
         Thank You
