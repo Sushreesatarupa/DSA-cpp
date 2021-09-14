@@ -104,13 +104,13 @@ The project has two parts:
 <p>
 <a href="https://www.linkedin.com/in/sushree-satarupa-4a45411a5/">
   <img align="left" alt="Sushree's LinkdeIn" width="6%" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+</a> &ensp;
 <a href="https://www.instagram.com/satarupa_ss/">
   <img align="left" alt="Sushree's Instagram" width="6%" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+</a>&ensp;
 <a href="https://twitter.com/SatarupaSushree">
   <img align="left" alt="Sushree's Twitter" width="6%" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
+</a>&ensp;
 </p>
 <br>
 
