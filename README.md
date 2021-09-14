@@ -41,12 +41,9 @@
 
 -   Use C++, Data Structure and Algorithms, HTML, CSS, JavaScript.
 -   Anything valuable.
--   while adding any content it should be inside its appropiate directory
 
-## Things you can contribute to 
--   You can add a solution to a question that is unanswered
--   you can update existing solution with a better one
--   you can add new questions along with its solution
+
+
 
 ## Steps For Contribution
 
@@ -55,6 +52,7 @@
     3. Add a file
     4. commit the code
     5. Make pull request
+    
 ***
 
 ![image](https://user-images.githubusercontent.com/64991656/133085022-e507d7da-e824-4226-be49-0f549cd78e17.png)
@@ -87,9 +85,16 @@ The project has two parts:
 - [Discord for discussions](https://discord.gg/MezpseWz)
 
 ### Connect with me
-- [Twitter](https://twitter.com/satarupasushree)
-- [LinkedIn](https://www.linkedin.com/in/sushree-satarupa-4a45411a5)
-- [Instagram](https://www.instagram.com/satarupa_ss/)
+<a href="https://www.linkedin.com/in/sushree-satarupa-4a45411a5/">
+  <img align="left" alt="Sushree's LinkdeIn" width="6%" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/satarupa_ss/">
+  <img align="left" alt="Sushree's Instagram" width="6%" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://twitter.com/SatarupaSushree">
+  <img align="left" alt="Sushree's Twitter" width="6%" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+- 
 ---
 
 ## Materials
@@ -98,6 +103,7 @@ The project has two parts:
 - [DSA ALL TOPICS](https://www.geeksforgeeks.org/data-structures)
 
 ---
+
 ## Contributors
 <a href="https://github.com/Sushreesatarupa/DSA-cpp-Hacktoberfest2021/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Sushreesatarupa/DSA-cpp-Hacktoberfest2021" />
