@@ -100,7 +100,9 @@ The project has two parts:
   <img src="https://contrib.rocks/image?repo=Sushreesatarupa/DSA-cpp-Hacktoberfest2021" />
 </a>
 
- ### Connect with me
+---
+
+### Connect with me
 <p>
 <a href="https://www.linkedin.com/in/sushree-satarupa-4a45411a5/">
   <img align="left" alt="Sushree's LinkdeIn" width="6%" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
