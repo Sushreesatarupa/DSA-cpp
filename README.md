@@ -48,9 +48,9 @@
 
  use | file type  |  comments
  ----|------------|---------------
- questions | *README.md*        | all questions of particular topic are mentioned in a *README.md* file inside the directory of that topic
- C++ solutions | *[topic name].cpp*  | solution to a question is written in same directory where question is mentioned in README
-aldorithm solution| *[topic name]-algorithm.txt | solution to a question is written in same directory where question is mentioned in README
+ questions | **README.md**        | all questions of particular topic are mentioned in a *README.md* file inside the sub topic folder 
+ C++ solutions | **[topic name].cpp**  | C++ solution code to a question is written in same directory where question is mentioned in README
+algorithm solution| **[topic name]-algorithm.txt** | solution to a question is written in same directory where question is mentioned in README
     
     
 ## Things you can contribute to 
