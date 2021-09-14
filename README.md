@@ -96,7 +96,7 @@ The project has two parts:
   <img align="left" alt="Sushree's Twitter" width="6%" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 </p>
-
+<br>
 ---
 <br>
 
