@@ -2,7 +2,6 @@
 
 <h1 align="center"> Hacktoberfest 2021 </h1>
 
-***
 <h3 align="center">
     <a href="https://hacktoberfest.digitalocean.com/">
         Link To HacktoberFest 2021
@@ -15,6 +14,8 @@
 - All backgrounds and skill levels are encouraged to complete the challenge.
 - Hacktoberfest is a celebration open to everyone in our global community.
 - You can sign up anytime between October 1 and October 31.
+
+---
 
 ## HacktoberFest Rules :
 
