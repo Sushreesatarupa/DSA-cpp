@@ -40,10 +40,13 @@
 ## Rules To Contribute To This Repo
 
 -   Use C++, Data Structure and Algorithms, HTML, CSS, JavaScript.
+-   
 -   Anything valuable.
 
-
-
+## Things you can contribute to 
+-   You can add a solution to a question that is unanswered
+-   you can update existing solution with a better one
+-   you can add new questions along with its solution
 
 ## Steps For Contribution
 
