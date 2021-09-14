@@ -51,7 +51,7 @@
  questions | **README.md**        | all questions of particular topic are mentioned in a `README.md` file inside the sub topic folder 
  C++ solutions | **[topic name].cpp**  | solution C++ code file code to a question is written in same folder where question is mentioned
  algorithm solution | **[topic name]-algorithm.txt** | algorithm solution to a question is written in a `.txt` txt file in same folder where question is mentioned
- technical writing | **[topic name]-content.md** or **[topic name]-content.txt** | technical content can be provided in simple `.txt` text document inside [technical writing folder]()  you can also style it up and submit a `.md` file if you are aquainted with markdown language
+ technical writing | **[topic name]-content.md** or **[topic name]-content.txt** | technical content can be provided in simple `.txt` text document inside [technical writing folder](https://github.com/Sushreesatarupa/DSA-cpp-Hacktoberfest2021/tree/main/technical%20writings)  you can also style it up and submit a `.md` file if you are aquainted with markdown language
     
 ## Things you can contribute to 
 -   You can add a solution to a question that is unanswered
