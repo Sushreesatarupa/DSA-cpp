@@ -8,4 +8,5 @@
 4. <a href="https://practice.geeksforgeeks.org/problems/search-in-a-rotated-array0959/1/">search-in-a-rotated-array</a>
 5. <a href="https://practice.geeksforgeeks.org/problems/merge-sort/1/">merge-sort</a>
 6. <a href="https://practice.geeksforgeeks.org/problems/quick-sort/1/">quick sort</a>
+7. <a href="https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1">Sort an array of 0s, 1s and 2s</a>
 
