@@ -40,7 +40,7 @@
 ## Rules To Contribute To This Repo
 
 -   You can write solutions only in C++ for Data Structure and Algorithms (if you dont know C++ you can submit only algorithm) 
--   Use of HTML, CSS, JavaScript is expected for webpage.
+-   Follow file naming convention for all your pull requests.
 -   while adding any content it should be inside its appropiate directory
 -   if there is any  problem with inaccurate solution create a issue 
 
@@ -54,18 +54,18 @@
  technical writing | **[topic name]-content.md** or **[topic name]-content.txt** | technical content can be provided in simple `.txt` text document inside [technical writing folder](https://github.com/Sushreesatarupa/DSA-cpp-Hacktoberfest2021/tree/main/technical%20writings)  you can also style it up and submit a `.md` file if you are aquainted with markdown language
     
 ## Things you can contribute to 
--   You can add a solution to a question that is unanswered
--   you can update existing solution with a better one
+-   You can add a solution to a question ( present in the readme of particular topic folder) that is unanswered
+-   you can update existing solution with a better one ( better complexity)
 -   you can add new questions along with its solution
 -   solve issue raised by other people or yourself
--   make webpage more appealing and updated
+-   make webpage ( hosted from GitHub readme ) more appealing and updated
 -   UI/UX of webpage
 
 ## Steps For Contribution
 
     1. Fork this repo
     2. Star this repo
-    3. Add a file
+    3. Add a file ( txt/cpp ) inside appropriate folder 
     4. commit the code
     5. Make pull request
     
@@ -81,7 +81,7 @@ The project has two parts:
     - The repository provides implementations of various algorithms in one of the most fundamental general-purpose languages - C++.
     - Well-documented source code with detailed explanations provides a valuable resource for educators and students alike.
 
-2. The webpage- 
+2. The webpage -( readme hosted ) 
     - There shall be showcasing Daily tasks from Day 1 to Day 60. 
     - And a section to showcase technical writings of participants in the form of blogs 
 
