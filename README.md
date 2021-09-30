@@ -10,7 +10,7 @@
 
 ## Event details :
 
-- Hacktoberfest is a month-long challenge. It happens every year in the month of October.
+- Hacktoberfest is a **month-long** challenge. It happens every year in the month of October.
 - Hacktoberfest is open to everyone and it marks the celebration of Open Source. It's the biggest Open Source event that encourages newbies to participate in Open Source and create their 1st meaningful PR.
 - Hacktoberfest will be hosted by Digital Ocean for the 8th year in a row in partnership with GitHub and other companies.
 - Hacktoberfest® is open to everyone in our global community. Whether you’re a developer, student learning to code, event host, or company of any size, you can help drive growth of open source and make positive contributions to an ever-growing community. 
