@@ -20,8 +20,8 @@ Expected Time Complexity: O(N)
 Expected Auxiliary Space: O(N)
 
 Constraints:
-1 ≤ N ≤ 105
-1 ≤ Arr[i] ≤ 105
+1 ≤ N ≤ 10^5
+1 ≤ Arr[i] ≤ 10^5
 
 */
 
