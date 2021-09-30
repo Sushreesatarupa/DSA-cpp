@@ -13,10 +13,10 @@
 - Hacktoberfest is a **month-long** challenge. It happens every year in the month of October.
 - Hacktoberfest is open to everyone and it marks the celebration of Open Source. It's the biggest Open Source event that encourages newbies to participate in Open Source and create their 1st meaningful PR.
 - Hacktoberfest will be hosted by Digital Ocean for the 8th year in a row in partnership with GitHub and other companies.
-- Hacktoberfest® is open to everyone in our global community. Whether you’re a developer, student learning to code, event host, or company of any size, you can help drive growth of open source and make positive contributions to an ever-growing community. 
+- Hacktoberfest® is **open to everyone** in our global community. Whether you’re a developer, student learning to code, event host, or company of any size, you can help drive growth of open source and make positive contributions to an ever-growing community. 
 - All backgrounds and skill levels are encouraged to complete the challenge.
 - Hacktoberfest is a celebration open to everyone in our global community.
-- You can sign up anytime between October 1 and October 31.
+- You can sign up **anytime between October 1 and October 31**.
 
 ---
 
@@ -47,7 +47,7 @@ Submit PRs: Try and submit at least ***4 PRs*** and wait for it to be verified. 
 
 ## HacktoberFest Rules :
 
-- To earn your Hacktoberfest tee or tree reward, you must register and make four valid pull requests (PRs) between October 1-31 (in any time zone). 
+- To earn your Hacktoberfest tee or tree reward, you must **register** and make **four valid pull requests** (PRs) between October 1-31 (in any time zone). 
 - Pull requests can be made in any participating GitHub or GitLab hosted repository/project. Look for the `hacktoberfest` topic to know if a repository/project is participating in Hacktoberfest. 
 - Pull requests must be approved by a maintainer of the repository/project to count. 
 - If a maintainer reports your pull request as spam or behavior not in line with the project’s code of conduct, you will be ineligible to participate. 
@@ -89,13 +89,13 @@ For your PR to count it must be:
  technical writing | **[topic name]-content.md** or **[topic name]-content.txt** | technical content can be provided in simple `.txt` text document inside [technical writing folder](https://github.com/Sushreesatarupa/DSA-cpp-Hacktoberfest2021/tree/main/technical%20writings)  you can also style it up and submit a `.md` file if you are aquainted with markdown language
     
 ## Things you can contribute to 
--   Repo contain folders of all the data structures and algorithms topics with some pre-addressed questions. You can add a solution to a question ( present in the readme of particular topic folder) that is unanswered.
--   you can update existing solution with a better one ( better complexity).
--   Participants can even add new questions and solutions of their interest.
--   There will be a technical writing section in which participants can contribute their technical writing on any topic of c++ and data structures.
--   solve issue raised by other people or yourself.
+-   Repo contain folders of all the data structures and algorithms topics with some pre-addressed questions. You can **add a solution** to a question ( present in the readme of particular topic folder) that is unanswered.
+-   you can **update existing solution** with a better one ( better complexity).
+-   Participants can even **add new questions** and solutions of their interest.
+-   There will be a technical writing section in which participants can contribute their **technical writing** on any topic of c++ and data structures.
+-   **solve issues** raised by other people or yourself.
 -   make webpage ( hosted from GitHub readme ) more appealing and updated.
--   Well-documented source code with detailed explanations provides a valuable resource for educators and students alike.
+-   **Well-documented** source code with detailed explanations provides a valuable resource for educators and students alike.
 
 ## Steps For Contribution
 
