@@ -1,16 +1,1 @@
-# DSA 60 days 
-
-<!-- 
-<hr>
-Starting from Algorithms to dynamic programming
-
-<hr><center>
--> Each day 5 problems <br>
--> July 12 - September 10 <br>
--> For beginners and intermediates <br></center>
-<hr>
-<img src="Sushreesatarupa/DSA-60DAYS/IMG_20210710_014552.jpg">
- -->
- 
- 9. Hashing
-10. Strings
+[Maximum XOR subarray](https://practice.geeksforgeeks.org/problems/a512e4b2e812b6df2159b19cc7090ffc1ab056dd/1#:~:text=Find%20the%20subarray%20with%20maximum,xor%20value%20equal%20to%207.)
