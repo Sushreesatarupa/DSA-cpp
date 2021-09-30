@@ -1,0 +1,105 @@
+7.1.1	Statement of Purpose  
+The company required a complete automated model to predict the volatility of intraday stock market considering various parameters. 
+7.1.2	Existing System  
+Traditional approaches to stock market analysis and stock price prediction include fundamental analysis, which looks at a stock's past performance and the general credibility of the company itself, and statistical analysis, which is solely concerned with number crunching and identifying patterns in stock price variation. The latter is commonly achieved with the help of Genetic Algorithms (GA) or Artificial Neural Networks (ANN's), but these fail to capture correlation between stock prices in the form of long-term temporal dependencies. Another major issue with using simple ANNs for stock predictions the phenomenon of exploding / vanishing gradient, where the weights of a large network either become too large or too small (respectively), drastically slowing their convergence to the optimal value. This is typically caused by two factors: weights are initialized randomly, and the weights closer to the end of the network also tend to change a lot more than those at the beginning.  
+7.1.3 Drawbacks  
+An alternative approach to stock market analysis is to reduce the dimensionality of the input data and apply feature selection algorithms to shortlist a core set of features (such as GDP, oil price, inflation rate, etc.) that have the greatest impact on stock prices or currency exchange rates across markets. However, this method does not consider long-term trading strategies as it fails to take the entire history of trends into account; furthermore, there is no provision for outlier detection. 
+7.1.4 Need for Stock Prediction Model  
+Stock market price prediction is a difficult undertaking that generally requires a lot of humancomputer interaction. Traditional batch processing methods cannot be used effectively for stock market analysis due to the linked nature of stock prices. We present an online learning technique that employs a recurrent neural network of some sort (RNN) called Long Short Term Memory (LSTM), which uses stochastic gradient descent to update the weights for individual data points. When compared to existing stock price prediction systems, this will yield more accurate results. With varying sizes of data, the network is trained and evaluated for accuracy, and the results are tallied. A comparison with respect to accuracy is then performed against an Artificial Neural Network 
+  
+7.1.5 Stock Price Prediction Model 
+ 
+7.1.5.1  Software Requirements:  
+ 
+ 
+1. Google Colab  
+Colab is ideal for everything from improving your Python coding skills to working with deep learning libraries, like PyTorch, Keras, TensorFlow, and OpenCV. You can create notebooks in Colab, upload notebooks, store notebooks, share notebooks, mount your 
+Google Drive and use whatever you’ve got stored in there, import most of your favorite directories, upload your personal Jupyter Notebooks, upload notebooks directly from GitHub, upload Kaggle files, download your notebooks, and do just about everything else that you might want to be able to do. 
+
+2. YFinance  
+Finance came as a support to those who became helpless after the closure of Yahoo Finance historical data API, as many programs that relied on it stopped working. YFinance was created to help the programs and users who were relying on the Yahoo Finance API. It solves the problem by allowing users to download data using python and it has some great features also which makes it favourable to use for stock data analysis. YFinance not only downloads the Stock Price data it also allows us to download all the financial data of a Company since its listing in the stock market. It’s easy to use and is blazingly fast. This library is pretty famous for Financial Data Analysis.  
+  
+3. Tensorflow   
+TensorFlow is a software library or framework, designed by the Google team to implement machine learning and deep learning concepts in the easiest manner. It combines the computational algebra of optimization techniques for easy calculation of many mathematical expressions.  
+Let us now consider the following important features of TensorFlow – 
+oIt includes a feature of that defines, optimizes and calculates mathematical expressions easily with the help of multi-dimensional arrays called tensors. 
+oIt includes a programming support of deep neural networks and machine learning techniques. 
+oIt includes a high scalable feature of computation with various data sets. o 	TensorFlow uses GPU computing, automating management. It also includes a unique feature of optimization of same memory and the data used. 
+TensorFlow is well-documented and includes plenty of machine learning libraries. It offers a few important functionalities and methods for the same. TensorFlow is also called a “Google” product. It includes a variety of machine learning and deep learning algorithms. TensorFlow can train and run deep neural networks for handwritten digit classification, image recognition, word embedding and creation of various sequence models. 
+ 
+
+  
+7.1.5.2 Algorithm / Modelling:  
+
+7.1.5.2.1 Long Short Term Memory (LSTM)  
+LSTMs are very powerful in sequence prediction problems because they’re able to store past information. This is important in our case because the previous price of a stock is crucial in predicting its future price. 
+ 
+We will be using YFinance library to capture the real time or the live data of various companies which will be further used for Modelling. 
+
+7.1.6 Work Flow  
+ 
+The steps that we will be following are: 
+•Visualization of Historical Data 
+•Pre-Processing of Data 
+•Divide the data into Training and Testing 
+•Modelling 
+•Deployment 
+ 
+   	 
+7.1.6.1 Requirements: 1) Pip  
+Pip command is a tool for installation and managing Python packages, such as those found in the Python Package Index. It’s a replacement for easy_install.  
+2)  yfinance Library Version (0.1.61)  
+  yfinance aims to solve this problem by offering a reliable, threaded, and Pythonic way to download historical market data from Yahoo! finance.  
+The entire process of face recognition can be divided into three parts:  
+  
+1.	Historical Data Visualization  
+2.	Training  
+3.	Testing  
+4.	Deployment 
+  
+  
+7.1.6.2 Historical Data Visualization.:  
+Visualizing the stock price right from the date the company was listed in Stock Exchange either in (NSE / BSE). It helps us in understanding the volatility of company’s stock price and the approximate rate of growth of share price annually which can be further used for various studies in analysing the company’s future in terms of stability. 
+
+7.1.6.3 Training:  
+We propose an online learning algorithm for predicting the end-of-day price of a given stock with the help of Long Short Term Memory (LSTM), a type of Recurrent Neural Network (RNN).  
+ 
+Online and batch learning algorithms differ in the way in which they operate. In an online algorithm, it is possible to stop the optimization process in the middle of a learning run and still train an effective model. This is particularly useful for very large data sets (such as stock price datasets) when the convergence can be measured and learning can be quit early. The stochastic learning paradigm is ideally used for online learning because the model is trained on every data point —each parameter update only uses a single randomly chosen data point, and while oscillations may be observed, the weights eventually converge to the same optimal value.  
+ 
+On the other hand, batch algorithms keep the system weights constant while computing the error associated with each sample in the input. That is, each parameter update involves a scan of the entire dataset —this can be highly time-consuming for large-sized stock price data. Speed and accuracy are equally important in predicting trends in stock price movement, where prices can fluctuate wildly within the span of a day. As such, an online learning approach is better for stock price prediction. 
+
+7.1.6.4  Testing:  
+Benchmark stock market data (for end-of-day prices of various ticker symbols i.e., companies) was obtained from one primary source: Yahoo Finance. Yahoo Finance website offer URLbased APIs from which historical stock data for various companies can be obtained for various companies by simply specifying some parameters in the URL.  
+ 
+ 
+The obtained data contained five features: 
+1.Date: of the observation 
+2.Opening price: of the stock 
+3.High: highest intra-day price reached by the stock  
+4.Low: lowest intra-day price reached by the stock  
+5.Volume: number of shares or contracts bought and sold in the market during the day 
+6.Closing Price: The rate at which the stock price closes for that day.  
+The data is then divides into 80:20 ratio for testing that 80% of data for Training the Model and 20% of the data for testing. 
+ 
+  
+7.1.7 Terminologies Used: 
+  
+Given below is a brief summary of the various terminologies relating to our proposed stock prediction system: 
+1.Training set: subsection of the original data that is used to train the neural network model for predicting the output values 
+2.Test set: part of the original data that is used to make predictions of the output value, which are then compared with the actual values to evaluate the performance of the model 
+3.Validation set: portion of the original data that is used to tune the parameters of the neural network model.  
+4.Batch size: number of samples that must be processed by the model before updating the weights of the parameters 
+5.Epoch: a complete pass through the given dataset by the training algorithm 
+6.Loss function: a function, defined on a data point, prediction and label, that measures a penalty such as square loss.  
+7.Root Mean Square Error (RMSE): measure of the difference between values predicted by a model and the values actually observed. It is calculated by taking the summation of the squares of the differences between the predicted value and actual value, and dividing it by the number of samples. 
+ 
+7.1.8 Modelling:  
+ 
+Once the LSTM model is fit to the training data, it can be used to predict the end-of-day stock price of an arbitrary stock. This prediction can be performed in two ways: 
+1.Static –a simple, less accurate method where the model is fit on all the training data. Each new time step is then predicted one at a time from test data. 
+2.Dynamic –a complex, more accurate approach where the model is refit for each time step of the test data as new observations are made available. 
+ The accuracy of the prediction model can then be estimated robustly using the RMSE (Root Mean Squared Error) metric. This is due to the fact that neural networks in general (including LSTM) tend to give different results with different starting conditions on the same data. We then repeat the model construction and prediction several times (with different starting conditions) and then take the average RMSE as an indication of how well our configuration would be expected to perform on unseen real-world stock data. That is, we will compare our predictions with actual trends in stock price movement that can be inferred from historical data. 
+
+ 
+
+
