@@ -37,18 +37,14 @@ public:
 // { Driver Code Starts.
 
 int main() {
-    int t; //Number of Test cases
-    cin >> t;
-    while (t--) {
-        int n, i;
-        cin >> n;
-        int arr[n];
-        for (i = 0; i < n; i++) {
-            cin >> arr[i];
-        }
-        Solution ob;
-        auto ans = ob.maxProduct(arr, n);
-        cout << ans << "\n";
+    int n, i;
+    cin >> n;
+    int arr[n];
+    for (i = 0; i < n; i++) {
+        cin >> arr[i];
     }
+    Solution ob;
+    auto ans = ob.maxProduct(arr, n);
+    cout << ans << "\n";
     return 0;
 }  // } Driver Code Ends
