@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/64991656/133310425-514d4b98-b7db-4a79-9aa6-d9b4d8eb393f.png)
+![image](https://user-images.githubusercontent.com/64991656/135403993-8436cfd2-5314-4c03-8509-d33e51c565b2.png)
 
 <h1 align="center"> Hacktoberfest 2021 </h1>
 
