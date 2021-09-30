@@ -1,16 +1,1 @@
-# DSA 60 days 
-
-<!-- 
-<hr>
-Starting from Algorithms to dynamic programming
-
-<hr><center>
--> Each day 5 problems <br>
--> July 12 - September 10 <br>
--> For beginners and intermediates <br></center>
-<hr>
-<img src="Sushreesatarupa/DSA-60DAYS/IMG_20210710_014552.jpg">
- -->
- 
- 9. Hashing
-10. Strings
+[Minimum XOR value pair](https://practice.geeksforgeeks.org/problems/minimum-xor-value-pair/0/#:~:text=Given%20an%20array%20of%20integers,10%20Therefore%20output%20is%206.)
