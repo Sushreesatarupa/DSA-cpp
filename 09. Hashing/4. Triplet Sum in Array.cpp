@@ -27,8 +27,8 @@ Expected Auxiliary Space: O(1)
 
 
 Constraints:
-1 ≤ n ≤ 103
-1 ≤ A[i] ≤ 105
+1 ≤ n ≤ 10^3
+1 ≤ A[i] ≤ 10^5
 */
 
 #include <bits/stdc++.h>
