@@ -1,0 +1,78 @@
+// { Driver Code Starts
+#include <bits/stdc++.h> 
+using namespace std; 
+
+ // } Driver Code Ends
+class Solution
+{   
+    public: 
+    //Function to return a list of integers denoting spiral traversal of matrix.
+    vector<int> spirallyTraverse(vector<vector<int> > matrix, int r, int c) 
+    {
+        int row=0,column=0;
+        vector <int> ans;
+        while(row<r&&column<c)
+        {
+            //Tranversing elements of the 1st row of the current matrix
+            for(int i=column;i<c;i++)
+            {
+                ans.push_back(matrix[row][i]);
+            }
+            row++;
+            //Tranversing elements of the last column  of the current matrix
+            for(int i=row;i<r;i++)
+            {
+                ans.push_back(matrix[i][c-1]);
+            }
+            c--;
+            //Tranversing elements of the last row of the current matrix
+            if(row<r)
+            {
+                for(int i=c-1;i>=column;i--)
+                {
+                    ans.push_back(matrix[r-1][i]);
+                }
+                r--;
+            }
+            //Tranversing elements of the first column of the current matrix
+            if(column<c)
+            {
+                for(int i=r-1;i>=row;i--)
+                {
+                    ans.push_back(matrix[i][column]);
+                }
+                column++;
+            }
+        }
+        return ans; //returning the answer
+    }
+};
+
+// { Driver Code Starts.
+int main() {
+    int t;
+    cin>>t;
+    
+    while(t--) 
+    {
+        int r,c;
+        cin>>r>>c;
+        vector<vector<int> > matrix(r); 
+
+        for(int i=0; i<r; i++)
+        {
+            matrix[i].assign(c, 0);
+            for( int j=0; j<c; j++)
+            {
+                cin>>matrix[i][j];
+            }
+        }
+
+        Solution ob;
+        vector<int> result = ob.spirallyTraverse(matrix, r, c);
+        for (int i = 0; i < result.size(); ++i)
+                cout<<result[i]<<" ";
+        cout<<endl;
+    }
+    return 0;
+}  // } Driver Code Ends
