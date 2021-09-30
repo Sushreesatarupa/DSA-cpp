@@ -43,8 +43,27 @@ public:
 	// The main function that returns the arrangement with the largest value as
 	// string.
 	// The function accepts a vector of strings
+	 static bool comp(string a,string b)
+	   {
+	       return a+b>b+a;
+	   }
 	string printLargest(vector<string> &arr) {
-	    // code here
+		
+		sort(arr.begin(),arr.end(),comp);
+		string str;
+		for(auto x:arr) str+=x;
+
+		//To remove leading zeroes..
+		for(int i=0;i<str.size();i++)
+		  {
+		   if(str[i]!='0')
+		    {
+		     return str.substr(i,str.size()-i);
+
+		    }
+		  }
+		return "0";
+
 	}
 };
 
