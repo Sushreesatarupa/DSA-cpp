@@ -76,8 +76,8 @@ For your PR to count it must be:
 
 -   You can write solutions only in C++ for Data Structure and Algorithms (if you dont know C++ you can submit only algorithm) 
 -   Follow file naming convention for all your pull requests.
--   while adding any content it should be inside its appropiate directory
--   if there is any  problem with inaccurate solution create a issue 
+-   While adding any content it should be inside its appropiate directory
+-   if there is any problem with inaccurate solution create an issue!
 
 ## file naming convention
 
@@ -89,12 +89,13 @@ For your PR to count it must be:
  technical writing | **[topic name]-content.md** or **[topic name]-content.txt** | technical content can be provided in simple `.txt` text document inside [technical writing folder](https://github.com/Sushreesatarupa/DSA-cpp-Hacktoberfest2021/tree/main/technical%20writings)  you can also style it up and submit a `.md` file if you are aquainted with markdown language
     
 ## Things you can contribute to 
--   You can add a solution to a question ( present in the readme of particular topic folder) that is unanswered
--   you can update existing solution with a better one ( better complexity)
--   you can add new questions along with its solution
--   solve issue raised by other people or yourself
--   make webpage ( hosted from GitHub readme ) more appealing and updated
--   UI/UX of webpage
+-   Repo contain folders of all the data structures and algorithms topics with some pre-addressed questions. You can add a solution to a question ( present in the readme of particular topic folder) that is unanswered.
+-   you can update existing solution with a better one ( better complexity).
+-   Participants can even add new questions and solutions of their interest.
+-   There will be a technical writing section in which participants can contribute their technical writing on any topic of c++ and data structures.
+-   solve issue raised by other people or yourself.
+-   make webpage ( hosted from GitHub readme ) more appealing and updated.
+-   Well-documented source code with detailed explanations provides a valuable resource for educators and students alike.
 
 ## Steps For Contribution
 
@@ -107,18 +108,6 @@ For your PR to count it must be:
 ***
 
 ![image](https://user-images.githubusercontent.com/64991656/133085022-e507d7da-e824-4226-be49-0f549cd78e17.png)
-
-The project has two parts: 
-1. C++
-    - C++ section will contain folders of all the data structures and algorithms topics with some pre-addressed questions. 
-    - Participants can solve problems and send pull requests. Participants can even add questions and solutions of their interest.
-    - There will be a technical writing section in which participants can contribute their technical writing on any topic of c++ and data structures.
-    - The repository provides implementations of various algorithms in one of the most fundamental general-purpose languages - C++.
-    - Well-documented source code with detailed explanations provides a valuable resource for educators and students alike.
-
-2. The webpage -( readme hosted ) 
-    - There shall be showcasing Daily tasks from Day 1 to Day 60. 
-    - And a section to showcase technical writings of participants in the form of blogs 
 
 ---
 ### FEATURES
@@ -168,7 +157,6 @@ The project has two parts:
 </a>&ensp;&ensp;&ensp;
 </p>
 <br>
-
 
 
 ---
