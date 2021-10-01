@@ -1,0 +1,19 @@
+#include<bits/stdc++.h>
+using namespace std;
+void printSubsequence(string str,string output,int index)
+{
+    if(index==str.size())
+    {
+        cout<<output<<"\n";
+        return;
+    }
+    printSubsequence(str,output,index+1);
+    output.push_back(str[index]);
+    printSubsequence(str,output,index+1);
+}
+int  main()
+{
+    string input="abc";
+    string output="";
+    printSubsequence(input,output,0);
+}
