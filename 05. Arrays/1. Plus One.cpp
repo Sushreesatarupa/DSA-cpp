@@ -68,7 +68,7 @@ int main() {
         for (i = 0; i < n; i++) {
             cout << arr[i] << " ";
         }
-        cout << "\n";
+        cout << endl;
     }
     return 0;
 }
