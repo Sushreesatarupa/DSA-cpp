@@ -8,36 +8,24 @@ void findTriplets(int arr[], int n)
 {
 	bool found = false;
 
-	// sort array elements
-	sort(arr, arr+n);
-
 	for (int i=0; i<n-1; i++)
 	{
-		// initialize left and right
-		int l = i + 1;
-		int r = n - 1;
-		int x = arr[i];
-		while (l < r)
+		// Find all pairs with sum equals to
+		// "-arr[i]"
+		unordered_set<int> s;
+		for (int j=i+1; j<n; j++)
 		{
-			if (x + arr[l] + arr[r] == 0)
+			int x = -(arr[i] + arr[j]);
+			if (s.find(x) != s.end())
 			{
-				// print elements if it's sum is zero
-				printf("%d %d %d\n", x, arr[l], arr[r]);
-				l++;
-				r--;
+				//printf("%d %d %d\n", x, arr[i], arr[j]);
+				cout<<"The triplet with 0 sum is: ";
+				cout<<x<<" "<<arr[i]<<" "<<arr[j];
+				cout<<endl;
 				found = true;
-				break;
 			}
-
-			// If sum of three elements is less
-			// than zero then increment in left
-			else if (x + arr[l] + arr[r] < 0)
-				l++;
-
-			// if sum is greater than zero than
-			// decrement in right side
 			else
-				r--;
+				s.insert(arr[j]);
 		}
 	}
 
@@ -45,13 +33,16 @@ void findTriplets(int arr[], int n)
 		cout << " No Triplet Found" << endl;
 }
 
-// Driven source
+// Driver code
 int main()
 {
-  int n;
+	cout<<"Enter the number of elements ";
+	int n;
+	cin>>n;
 	int arr[n];
-  for(int i = 0; i < n; i++)
-    cin >> arr[i];
+	cout<<"Enter the array elements ";
+	for(int i=0;i<n;i++)
+		cin>>arr[i];
 	findTriplets(arr, n);
 	return 0;
 }
