@@ -26,3 +26,12 @@ Example 2:
         4      5      6
 
         Output: 4 2 1 5 3 6
+        
+        
+# TIME COMPLEXITY
+
+O(N)
+
+# SPACE COMPLEXITY
+
+O(N)
