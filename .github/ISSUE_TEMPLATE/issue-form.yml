@@ -1,0 +1,68 @@
+name: New Issue
+description: Description
+title: "[Create New Issue]: "
+labels: ["Hacktoberfest21"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to make an issue!
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Enter a brief description
+      placeholder: Please include a summary. Please also include relevant motivation and context. 
+      value: "Description"
+    validations:
+      required: true
+  - type: dropdown
+    id: version
+    attributes:
+      label: Domain
+      description: Select domain of Contribution
+      options:
+        - Introduction
+        - Mathematics
+        - Bit Magic
+        - Recursion
+        - Arrays
+        - Searching 
+        - Sorting
+        - Matrix
+        - Hashing
+        - String
+        - Linked List
+        - Stacks
+        - Queue
+        - Deque
+        - Tree
+        - Binary Search Tree
+        - Heap
+        - Graph
+        - Greedy
+        - Backtracking
+        - Dynamic Programming
+        - Trie
+        - Segment Tree
+        - Disjoint Set
+        - Others
+    validations:
+      required: true
+  - type: dropdown
+    id: contribtype
+    attributes:
+      label: Type of Contribution
+      multiple: true
+      options:
+        - Documentation
+        - Code
+        - Code With Explanation
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: By submitting this issue, you agree to follow our [Code of Conduct]()
+      options:
+        - label: I follow Contributing Guidelines & Code of conduct.
+          required: true
