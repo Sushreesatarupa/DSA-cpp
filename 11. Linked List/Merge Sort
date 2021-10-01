@@ -1,0 +1,55 @@
+class Solution{
+public:
+//Function to sort the given linked list using Merge Sort.
+void MergeSorting(Node **head){
+Node*cur = *head;
+Node * first;
+Node *second;
+if(!cur or !cur->next)
+return ;
+FindMiddle(cur ,&first, &second);
+MergeSorting(&first);
+MergeSorting(&second);
+*head = MergeBoth(first , second);
+}
+
+```
+Node* MergeBoth(Node *first , Node*second){
+    Node *ans = NULL;
+    if(!first)
+    return second ;
+    else if(!second)
+    return first;
+
+    if(first->data <= second->data){
+        ans = first;
+        ans->next = MergeBoth(first->next , second);
+    }
+    else {
+        ans = second;
+    ans->next = MergeBoth(first , second->next);
+    }
+    return ans;
+}
+void FindMiddle(Node *cur , Node**first , Node**second){
+    Node*fast;
+    Node *slow;
+    slow = cur;
+    fast = cur->next;
+    while(fast!= NULL){
+        fast = fast->next;
+        if(fast!=NULL){
+            slow = slow->next;
+            fast = fast->next;
+        }
+    }
+    *first = cur;
+    *second = slow->next;
+    slow->next = NULL;
+}
+Node* mergeSort(Node* head) {
+    // your code here
+    MergeSorting(&head);
+    return head;
+}
+};
