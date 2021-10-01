@@ -52,7 +52,7 @@ public:
     int j = 0;
 
 
-    // Check if current element is not equal to next element
+    //Check if current element is not equal to next element
     for (int i=0; i < n-1; i++)
         if (arr[i] != arr[i+1])
             arr[j++] = arr[i];
