@@ -1,4 +1,5 @@
-#include "../template.h"
+#include <bits/stdc++.h>
+using namespace std;
 
 /**
  * Definition for singly-linked list.
@@ -8,7 +9,7 @@
  *     ListNode(int x) : val(x), next(NULL) {}
  * };
  */
-ListNode* Solution::addTwoNumbers(ListNode* A, ListNode* B) {
+ListNode* addTwoNumbers(ListNode* A, ListNode* B) {
 
 	if(!A) return B;
 	if(!B) return A;
