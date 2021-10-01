@@ -8,8 +8,6 @@ If the size is not given, then we can get the size by traversing the tree */
 #include<bits/stdc++.h>
 using namespace std;
 
-/* A binary tree node has data, pointer to left child
-and a pointer to right child */
 class node
 {
 	public:
@@ -18,22 +16,14 @@ class node
 	node* right;
 };
 
-// A utility unction to merge two sorted arrays into one
+
 int *merge(int arr1[], int arr2[], int m, int n);
 
-// A helper function that stores inorder
-// traversal of a tree in inorder array
-void storeInorder(node* node, int inorder[],
-							int *index_ptr);
+void storeInorder(node* node, int inorder[],int *index_ptr);
 
-/* A function that constructs Balanced
-Binary Search Tree from a sorted array
-See https://www.geeksforgeeks.org/sorted-array-to-balanced-bst/ */
 node* sortedArrayToBST(int arr[], int start, int end);
 
-/* This function merges two balanced
-BSTs with roots as root1 and root2.
-m and n are the sizes of the trees respectively */
+
 node* mergeTrees(node *root1, node *root2, int m, int n)
 {
 	int *arr1 = new int[m];
