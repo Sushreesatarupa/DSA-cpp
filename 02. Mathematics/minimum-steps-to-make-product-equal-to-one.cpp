@@ -34,6 +34,8 @@
 
 int makeProductOne(int arr[], int N)
 {
+    //ans to count number of steps, cnt0 is count of zeros, 
+    //and cnt1 is count of negative integers
     int ans = 0, cnt0 = 0, cnt1 = 0;
     for (int i = 0; i < N; i++)
     {
