@@ -66,6 +66,13 @@ class Solution{
             arr[n-d+i]= temp[i];
         }
     }
+	
+     void rotateArr2(int arr[], int d, int n){
+        // code here
+	    reverse(arr, arr+d);
+            reverse(arr+d, arr+n);
+            reverse(arr, arr+n);
+    }
 };
 
 // { Driver Code Starts.
