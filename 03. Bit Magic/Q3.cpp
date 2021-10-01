@@ -19,6 +19,21 @@ class Solution
         return (n>>k)%2;
         // Your code here
         // It can be a one liner logic!! Think of it!!
+
+		/* Another alternative way
+		solution:
+		return n & (1<<k);
+
+		Logic:
+		(k's numbering starting with 0)
+		To get the k-th bit, generate a mask of 00000s with just kth bit set 
+		for example for k = 3, mask  = 0000 1000 
+		To get this mask, you simply left shift 1 by k,
+		mask = 1 << k
+		Finally, answer will be AND of number & mask, 
+		it will return 1 if that bit is set in number 
+		otherwise 0
+		*/
     }
 };
 
