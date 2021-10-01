@@ -17,7 +17,7 @@ static int i = 0;
 int main()
 {
     char a[100];
-    printf("Input string \n");
+    printf("Input string :-\n");
     gets(a);
     char *r=reverse(a);
     puts(r);
