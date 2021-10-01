@@ -1,6 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 
+// Node class for creating nodes of the linkedlist
 class node
 {
 public:
@@ -14,6 +15,7 @@ public:
 	}
 };
 
+// utility function to print the linked list
 void print(node* head)
 {
 	while(head)
@@ -23,7 +25,24 @@ void print(node* head)
 	}
 }
 
+// utility function to insert in the front of the linked list
+void insertionAtFront(node* &head,node* &tail,int d)
+{
+	if(head==NULL)
+	{
+		node* n=new node(d);
+		head=n;
+		tail=n;
+		return;
+	}
+	node* n=new node(d);
+	n->next=head;
+	head=n;
+}
 
+
+// recursive function to merge the lists
+// it returns the head of the new list obtained
 node* merge(node* headA,node* headB)
 {
 	if(headA==NULL)
@@ -52,21 +71,9 @@ node* merge(node* headA,node* headB)
 	}
 }
 
-void insertionAtFront(node* &head,node* &tail,int d)
-{
-	if(head==NULL)
-	{
-		node* n=new node(d);
-		head=n;
-		tail=n;
-		return;
-	}
-	node* n=new node(d);
-	n->next=head;
-	head=n;
-}
 
 
+// Driver code
 int main(){
     node* headA=NULL;
 	node* tailA=NULL;
