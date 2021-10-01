@@ -22,4 +22,4 @@
 4. <a href="https://practice.geeksforgeeks.org/problems/convert-celsius-to-fahrenheit/1">convert-celsius-to-fahrenheit</a>
 5. <a href="https://practice.geeksforgeeks.org/problems/quadratic-equation-roots/1">quadratic-equation-roots</a>
 
-1.<a href="https://practice.geeksforgeeks.org/problems/sieve-of-eratosthenes5242/1">Sieve of Eratosthenes</a><br>
+7.<a href="https://practice.geeksforgeeks.org/problems/sieve-of-eratosthenes5242/1">Sieve of Eratosthenes</a><br>
