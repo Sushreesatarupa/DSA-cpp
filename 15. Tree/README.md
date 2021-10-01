@@ -5,4 +5,4 @@
 - [Trees](1.%20Trees.cpp)
 - [Centroid of Tree](2.%20Centroid_of_Tree.cpp)
 - [ZigZag Traversal of Tree](3.%20Binary_Tree_ZigZag_Traversal.cpp)
-- [Vertcial Traversal of Tree](https://github.com/ritikaxx/DSA-cpp-Hacktoberfest2021/blob/main/15.%20Tree/VerticalTraversal.cpp)
+
