@@ -18,10 +18,10 @@ int main()
     cout<<"Enter the string to be reversed ";
     getline(cin,s);
 
-    cout<<"Original string is "<<s<<endl; //string before reversal
+    cout<<"Original string is "<<s<<\n; //string before reversal
 
     string r = reverseString(s);
-    cout<<"Reversed string is "<<r<<endl; //reversed string
+    cout<<"Reversed string is "<<r<<\n; //reversed string
 
     return 0;
 }
