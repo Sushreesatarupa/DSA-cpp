@@ -46,6 +46,19 @@ class Solution{
 public:
     int remove_duplicate(int a[],int n){
         // code here
+        set<int> s;
+        int arr[n],j=0;
+        for(int i=0; i<n; i++)
+        {
+            if(s.count(a[i])==0)
+            arr[j++]=a[i];
+            s.insert(a[i]);
+        }
+        for(int i=0; i<j; i++)
+        {
+            a[i]=arr[i];
+        }
+        return j;
     }
 };
 
