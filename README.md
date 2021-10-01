@@ -1,39 +1,39 @@
 
 
-## 
-### Step - 3:
-Find good projects worth contributing on the GitHub page. You can type `label:hactoberfest is:issue is:open`
-
-You can add a language label of your choice to filter open issues. If you are a beginner and can’t find good issues then there’s tag `label:good first issue` which filters out issues for beginners who want to contribute.
-
-Here's something beginner-friendly for you:
-- https://www.firsttimersonly.com/
-- https://github.com/mungell/awesome-for-beginners
-
-### Step - 4:
-Submit PRs: Try and submit at least ***4 PRs*** and wait for it to be verified. Make sure to submit quality PRs.
-
----
-
-## HacktoberFest Rules :
-
-- To earn your Hacktoberfest tee or tree reward, you must **register** and make **four valid pull requests** (PRs) between October 1-31 (in any time zone). 
-- Pull requests can be made in any participating GitHub or GitLab hosted repository/project. Loc to know . 
-
-- Ifh, you will be ineligible to participate. 
--
 
 
-For your PR to count it must be:
-
-acktoberfest-accepted` by a maintainer. or
--
+ 
 
 
-***
 
 
-***
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
  
