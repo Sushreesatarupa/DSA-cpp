@@ -5,4 +5,4 @@
 - [Trees](1.%20Trees.cpp)
 - [Centroid of Tree](2.%20Centroid_of_Tree.cpp)
 - [ZigZag Traversal of Tree](3.%20Binary_Tree_ZigZag_Traversal.cpp)
-
+- [Least Common Ancestors (LCA)](4.%20Least_Common_Ancestor.cpp)
