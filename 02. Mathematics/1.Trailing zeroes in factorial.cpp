@@ -47,6 +47,18 @@ public:
         N=N/5;}
         return m;
     }
+    
+    int trailingZeroes2(int N)
+    {
+        // Write Your Code here
+        int ans = 0;
+        while(N/5)
+        {
+            ans+=N/5;
+            N/=5;
+        }
+        return ans;
+    }
 };
 
 // Driver Code Starts.
