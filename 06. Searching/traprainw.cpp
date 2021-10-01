@@ -1,3 +1,4 @@
+//trapped rainwater in blocks
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -13,18 +14,26 @@ int main()
     i = 0;
     while(i<n-1)
     {
-        while(i<n-1 && a[i + 1]<a[i])
-            i++;
-         
-        while(i<n-1 && a[i+1]>a[i])
-        {
-            if(a[i+2]<a[i+1] || i+1 == n-1)
+        while (i < n - 1 && a[i + 1] < a[i]) //loop to cross indices where
+            i++;                             // blocks are in ascending order
+                                             //and while in array
+
+        while (i < n - 1 && a[i + 1] > a[i]) //upcoming block in decending order
+        {                                    //and while in array
+
+            if (a[i + 2] < a[i + 1] || i + 1 == n - 1) //upcoming peak condition
+                                                       //or end of array condition
             {
-                por = i+1;   
-                for(j = pos+1; j<por; j++)
-                    rain += (a[pos]<a[por])?a[pos]-a[j] : a[por] - a[j];
-                
-                pos = por;   
+                //pos = 0 or the last time peak was reached
+                por = i + 1;
+                int x = min(a[pos], a[por]);
+                for (j = pos + 1; j < por; j++)
+                    rain += (x - a[j] > 0) ? x - a[j] : 0;
+                //pos and por are two blocks between which rain water
+                //is trapped; whichever is smaller, water drops can go
+                //only upto that level
+
+                pos = por; //pos' position is updated
             }
             i++;
         }   
