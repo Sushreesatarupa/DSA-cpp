@@ -38,14 +38,28 @@ Constraints:
 #include <bits/stdc++.h>
 using namespace std;
 
-
- // } Driver Code Ends
+// } Driver Code Ends
 //User function template for C++
 
-class Solution{
+class Solution
+{
 public:
-    int remove_duplicate(int a[],int n){
+    int remove_duplicate(int a[], int n)
+    {
         // code here
+        int j = 0;
+        for (int i = 0; i < n - 1; i++)
+            if (arr[i] != arr[i + 1])
+                arr[j++] = arr[i];
+
+        arr[j++] = arr[n - 1];
+
+        return j;
+
+        // in the above solution we are travrsing oncomplete array and cheaking if
+        // curent and curent +1 pointer do not same value tha add current value at position "j"
+        //and increment its value by one and return j as "no. of element which is not repeated" so
+        // that we can make traversal till that elemnt in updated non - repeated element array...
     }
 };
 
@@ -53,21 +67,21 @@ public:
 int main()
 {
     int T;
-    cin>>T;
-    while(T--)
+    cin >> T;
+    while (T--)
     {
         int N;
-        cin>>N;
+        cin >> N;
         int a[N];
-        for(int i=0;i<N;i++)
+        for (int i = 0; i < N; i++)
         {
-            cin>>a[i];
+            cin >> a[i];
         }
-    Solution ob;
-    int n = ob.remove_duplicate(a,N);
+        Solution ob;
+        int n = ob.remove_duplicate(a, N);
 
-    for(int i=0;i<n;i++)
-        cout<<a[i]<<" ";
-    cout<<endl;
+        for (int i = 0; i < n; i++)
+            cout << a[i] << " ";
+        cout << endl;
     }
-}  // } Driver Code Ends
+} // } Driver Code Ends
