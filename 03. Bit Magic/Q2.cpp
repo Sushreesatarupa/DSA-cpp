@@ -6,9 +6,11 @@ using namespace std;
  // } Driver Code Ends
 //User function Template for C++
 
+
 class Solution
 {
     public:
+    //Function to find sum of 2 number, without using arithmetic operators
     int sum(int a , int b)
     {
         int A,B,C=0;

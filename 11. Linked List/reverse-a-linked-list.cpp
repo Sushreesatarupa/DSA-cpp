@@ -1,37 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@Shashwatsingh22 
-Shashwatsingh22
-/
-Practice_Le
-Public
-1
-1
-1
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-Practice_Le/GfG/LinkedList/reverse_ll.cpp
-@Shashwatsingh22
-Shashwatsingh22 update
-Latest commit 1aacabd on May 3
- History
- 1 contributor
-114 lines (92 sloc)  1.84 KB
-   
-// { Driver Code Starts
-//Initial Template for C
 #include<stdio.h>
 #include<stdlib.h>
 
@@ -44,9 +10,6 @@ struct Node
 
 void insert();
 void display(struct Node *head);
-
- // } Driver Code Ends
-//User function Template for C
 
 struct Node* revrse(struct Node *back, struct Node *forward)
 {
@@ -85,8 +48,6 @@ struct Node* reverseList(struct Node *head)
          revrse(NULL,head);
          return start;
     }
-
-// { Driver Code Starts.
 
 int main()
 {
@@ -142,18 +103,21 @@ int main()
 
 
 
-
-  // } Driver Code Ends
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Loading complete
+class Solution
+{
+    public:
+    //Function to reverse a linked list.
+    struct Node* reverseList(struct Node *head)
+    {
+         Node* current = head;
+        Node* prev = NULL; Node* next = NULL;
+        while(current != NULL){
+            next = current->next;
+            current->next = prev;
+            prev = current;
+            current = next;
+        }
+        head = prev;
+    }
+    
+};

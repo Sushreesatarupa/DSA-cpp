@@ -21,3 +21,4 @@
 3. <a href="https://practice.geeksforgeeks.org/problems/absolute-value/1/">absolute-value</a><br>
 4. <a href="https://practice.geeksforgeeks.org/problems/convert-celsius-to-fahrenheit/1">convert-celsius-to-fahrenheit</a>
 5. <a href="https://practice.geeksforgeeks.org/problems/quadratic-equation-roots/1">quadratic-equation-roots</a>
+6. <a href="https://www.codechef.com/problems/BILLRD/">Point Of Impact</a>

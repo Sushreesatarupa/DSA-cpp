@@ -1,0 +1,30 @@
+﻿NVIDIA GauGAN : The Boon Of AI 
+
+
+
+
+Artificial intelligence forms the basis for all computer learning and is the future of all complex decision making. In recent years , most humans have been able to figure out the solutions to different problems with the help of AI  . A few instances of innovation, for example,such as that of clinical applications , declination in error etc  making AI the most significant and most prominent creation in humanity’s history.One among them is NVIDIA GauGAN . 
+
+
+NVIDIA , the global provider of processors and graphic chips revealed an image maker animated by artificial intelligence . The software called GauGAN ,by it’s design provides an overview of the possibilities offered by NVIDIA neural network platforms .GauGAN is designed to make a sketch and turn it into photorealistic images in seconds. It uses three tools , a paint bucket , a pen and a pencil . 
+
+
+GAN uses two networks : The first network is a  kind of discriminator that tries to detect if a sample is real or if it is the result of the generator . Here raw data is decomposed .
+
+
+In the second network  , the above stuff will be sent to the second network which has real photos and images in it’s database . This second network will make a judgement of the image and will inform the first. 
+
+
+If the image doesn't  look like the expected result , the 1st algorithm resumes the process . If there is a match , you are informed that you are on the right track and you end up understanding what a good image is .
+
+
+This deep learning model developed by NVIDIA researchers can  just turn rough doodles into photorealistic masterpieces with breathtaking ease.
+
+
+“ NVIDIA is uniquely positioned between visual computing and AI” , said Catanzaro that nexus is reflected in our research and in the demos that you will see on the AI playground. 
+
+
+                                                                                                                   
+
+
+                                                                                                            
