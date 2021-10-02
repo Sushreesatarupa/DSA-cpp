@@ -4,7 +4,7 @@ int minIndex(int a[], int i, int j)
 {
     if (i == j)
         return i;
-    int k = minIndex(a, i + 1, j);
+    int k = minIndex(a, i + 1, j); // this is the recursive step
 
     return (a[i] < a[k])? i : k;
 }
