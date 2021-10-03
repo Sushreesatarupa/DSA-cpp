@@ -1,0 +1,55 @@
+ “Data Structures and Algorithms”
+ 
+ I’ve enlisted a curated list of resources to learn DSA from zero to advanced level for placements and interview preparations.
+
+
+1.VIDEO LECTURES
+To understand the basics and implementation of each data structure
+1.Apna College
+2.MIT Open Courseware
+3.MyCodeSchool
+
+2. FREE COURSES
+There are plenty of paid courses available for free enrollment during their offer period.
+You can also enroll in free courses without certificates which will upskill you with experienced trainers. 
+The best way to showcase that skill is to achieve some good rank and ace coding contests. Here are some recommended courses and sites listed for reference:
+1. Udacity’s Intro to Algorithms
+2. Coursera’sAlgorithms Part I & II
+3. Data Structure in C
+4. Paid Courses for free
+ 
+ 3.BOOKS
+Books are one of the best ways to learn concepts and practice them.
+Since ancient times humans have had this primary source of learning.
+1. C++ Primer
+2. Cracking the Coding Interview
+3. Grokking Algorithms
+4. Introduction to Algorithms
+5. Elements of Programming Interviews in C++
+6. Data Structures and Algorithms in Java
+
+
+4.Love Babbar’s 450 Questions
+
+5.Striver’s 180 DSA Questions
+
+
+6.QUESTION SERIES
+Another way of learning is grasping by solving. You can read various tech blogs specific to the topic you want to learn and solve the provided questions. There are many tech bloggers along with websites having tutorials with a proper curriculum. Learning by researching through blogs also helps you understand the documentation of a language/framework. Here are some references:
+1.Fork CPP / Fork Java
+2. Workshop on DSA
+3. Code Monk
+4. Hackerrank’s DSA
+
+
+
+
+7.WEBSITES
+“Knowledge is of no value unless you put it into practice”. After going through all the basic concepts and implementations, you need to practice questions to acquire the problem-solving skills, the basis for all tech interviews. Many websites provide question banks for practice. I’ve tried to arrange with their level:
+1.Hackerrank(Beginner-friendly)
+2.HackerEarth(Intermediate)
+3.Leetcode(Interview-focussed)
+4.GeeksforGeeks(All Levels)
+5.Codeforces/Codechef(Best for Competitive Programming)
+
+All the best for your coding Rounds!
