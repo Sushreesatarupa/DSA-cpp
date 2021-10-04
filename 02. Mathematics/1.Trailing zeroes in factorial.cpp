@@ -5,17 +5,17 @@
   Example 1:
 
   Input:
-  N = 5
+  N = 6
   Output:
-  1
+  0
   Explanation:
   5! = 120 so the number of trailing zero is 1.
   Example 2:
 
   Input:
-  N = 4
+  N = 5
   Output:
-  0
+  2
   Explanation:
   4! = 24 so the number of trailing zero is 0.
   Your Task:  
@@ -46,6 +46,18 @@ public:
         m= m+N/5;
         N=N/5;}
         return m;
+    }
+    
+    int trailingZeroes2(int N)
+    {
+        // Write Your Code here
+        int ans = 0;
+        while(N/5)
+        {
+            ans+=N/5;
+            N/=5;
+        }
+        return ans;
     }
 };
 

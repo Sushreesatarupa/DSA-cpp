@@ -5,15 +5,16 @@ using namespace std;
  // } Driver Code Ends
 class Solution {
   public:
+   //Function to return the number of set bits 
     int setBits(int N) {
-        int cnt=0;
-        while(N>0){
-            if(N%2==1)cnt++;
-            N=N>>1;
+        int cnt = 0;
+        while(N > 0) {
+            if(N % 2 == 1)
+                cnt++;
+            N = N >> 1;
         }
         return cnt;
-        
-        // Write Your Code here
+    
     }
 };
 

@@ -68,6 +68,10 @@ int main() {
         for (i = 0; i < n; i++) {
             cout << arr[i] << " ";
         }
+	    
+	    // Here you have run the loop from 0 to n but consider the case when the number is say , 9 9 9, then the answer should be
+	    // 1 0 0 0 and here the size of array must be n+1 that is 4. However the loop run till i<3 which will output 1 0 0 only.
+	    // So I think you must update it. Happy Coding !!!😊
         cout << "\n";
     }
     return 0;
