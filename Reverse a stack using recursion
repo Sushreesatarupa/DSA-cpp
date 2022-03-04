@@ -1,0 +1,31 @@
+#include <iostream>
+#include <stack>
+using namespace std;
+
+stack<int> X, Y;
+
+void reverseStack() {
+    if(!X.empty()) {
+        Y.push(X.top());
+        X.pop();
+        reverseStack();
+    }
+    return;
+}
+
+int main() {
+    X.push(1);
+    X.push(2);
+    X.push(3);
+    X.push(4);
+    X.push(5);
+
+    reverseStack();
+
+
+    while(!Y.empty()) {
+        cout << Y.top() << " ";
+        Y.pop();
+    }
+    return 0;
+}
