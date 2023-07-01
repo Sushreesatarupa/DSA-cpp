@@ -1,5 +1,23 @@
 #include <iostream>
 using namespace std;
+void reverse_array(int arr[],int n)
+{
+	int start=0;
+	int end=n-1;
+	while(start<end)
+	{
+		int temp=arr[start];
+		arr[start]=arr[end];
+		arr[end]=temp;
+	}
+	cout<<"array is reversed using while loop:"<<endl;
+	for(int i=0;i<n;i++)
+	{
+		cout<<arr[i]<< " ";
+	}
+	cout<<endl;
+	cout<<"array reversed using for loop"<<endl;
+}
 int main() {
   
   //number of test cases
@@ -18,6 +36,7 @@ int main() {
          //Input array elements
 	        cin>>A[i];
 	    }
+		reverse_array(A,n);
 	    for(int begin=0;begin<(n/2);begin++)
 	    {
      
