@@ -1,5 +1,7 @@
 #include <iostream>
 using namespace std;
+
+//fun reverse array using while loop -start here
 void reverse_array(int arr[],int n)
 {
 	int start=0;
@@ -11,6 +13,7 @@ void reverse_array(int arr[],int n)
 		arr[end]=temp;
 	}
 	cout<<"array is reversed using while loop:"<<endl;
+	//out put of the array
 	for(int i=0;i<n;i++)
 	{
 		cout<<arr[i]<< " ";
@@ -18,6 +21,7 @@ void reverse_array(int arr[],int n)
 	cout<<endl;
 	cout<<"array reversed using for loop"<<endl;
 }
+/*--------------------------------end here--------------------------------*/
 int main() {
   
   //number of test cases
